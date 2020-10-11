@@ -32,7 +32,7 @@
 
 **Today's Progress**: Continued the exercises on Applied Visual Design on FreeCodeCamp(www.freecodecamp.com/learn). What stood out to me was the lesson about the Hue of a Color and Scaling. Played around with the different colors and scaling today a tad bit.
 
-**Thoughts**: It's the weekend and I had plans to do over an hour today but unfortuantely I did not have much time. The variety of colors are amazing and the different values you use to show them are quite interesting. The hsl value which was introduced in CSS3 uses a color wheel concept and not a spectrum. *Hmmm I love this already. I get to choose to any color*.
+**Thoughts**: It's the weekend and I had plans to do over an hour today but unfortuantely I did not have much time. The variety of colors are amazing and the different values you use to show them are quite interesting. The hsl value which was introduced in CSS3 uses a color wheel concept and not a spectrum. *Hmmm I love this already. I get to choose any color*.
 
 Examples of color values: 
 ```
@@ -43,3 +43,23 @@ hsl(240, 100%, 50%)
 
 **Link(s) to work**
 1. [Color Hue & Scaling](https://codepen.io/dyarawilliams/full/MWewjvj)
+
+### Day 5: October 11, 2020 Sunday
+
+**Today's Progress**: Completed Responsive Web Design: Applied Visual Design on freeCodeCamp. Learned about creating 2D graphics & using keyframes to manipulate animations in CSS. 
+
+A few animation properties:
+```
+animation-name
+animation-duration
+animation-timing-function
+animation-delay
+animation-iteration-count
+```
+
+**Thoughts**: 2D graphics are good, but I cant wait until I'm able to do 3D. Drawing a heart and cresent was neat. To be able to manipulate animations is superb. Getting those animations to do exactly what you want them to do I'm amazed.
+
+**Link(s) to work**
+1. None 
+
+
