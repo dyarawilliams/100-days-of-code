@@ -27,3 +27,19 @@
 
 **Link(s) to work**
 1. [Webpage Layout](https://codepen.io/dyarawilliams/full/gOMbRjd)
+
+### Day 4: October 10, 2020 Saturday
+
+**Today's Progress**: Continued the exercises on Applied Visual Design on FreeCodeCamp(www.freecodecamp.com/learn). What stood out to me was the lesson about the Hue of a Color and Scaling. Played around with the different colors and scaling today a tad bit.
+
+**Thoughts**: It's the weekend and I had plans to do over an hour today but unfortuantely I did not have much time. The variety of colors are amazing and the different values you use to show them are quite interesting. The hsl value which was introduced in CSS3 uses a color wheel concept and not a spectrum. *Hmmm I love this already. I get to choose to any color*.
+
+An example of a blue background : 
+```
+body {
+background: hsl(240, 100%, 50%);
+}
+```
+
+**Link(s) to work**
+1. [Color Hue & Scaling](https://codepen.io/dyarawilliams/full/MWewjvj)
