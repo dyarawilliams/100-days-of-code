@@ -15,3 +15,6 @@ Began the lesson on Applied Visual Design on [FreeCodeCamp](www.freecodecamp.com
 
 ### R1D4
 Continuation of Applied Visual Design still progressing. Created an [Example of Color Hue & Scaling](https://codepen.io/dyarawilliams/full/MWewjvj).
+
+### R1D5
+Completed Responsive Web Design: Applied Visual Design on freeCodeCamp. Learned about creating 2D graphics & using keyframes to manipulate animations in CSS. 
