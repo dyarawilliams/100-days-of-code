@@ -34,11 +34,11 @@
 
 **Thoughts**: It's the weekend and I had plans to do over an hour today but unfortuantely I did not have much time. The variety of colors are amazing and the different values you use to show them are quite interesting. The hsl value which was introduced in CSS3 uses a color wheel concept and not a spectrum. *Hmmm I love this already. I get to choose to any color*.
 
-An example of a blue background : 
+Examples of color values: 
 ```
-body {
-background: hsl(240, 100%, 50%);
-}
+rgb(0, 0, 255)
+#0000FF
+hsl(240, 100%, 50%)
 ```
 
 **Link(s) to work**
