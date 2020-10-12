@@ -62,4 +62,18 @@ animation-iteration-count
 **Link(s) to work**
 1. None 
 
+### Day 6: October 12, 2020 Monday 
 
+**Today's Progress**: Completed 55% of Applied Accessibility on freeCodeCamp. Learned about the new elements that were introduced in HTML5 to make a web design more accessibile. What I learned today was these elements which make the screen reader navigation more simple:`<header>` `<nav>` `<main>` `<article>` `<section>` `<footer>`. 
+
+Also here's a few topics that were covered:
+1. Headings Hierarchical
+2. Accessibility of Audio content
+3. Chart Accessibility using `<figure>` and `<figcaption>`element
+4. Form Field Accessibility using `<label>` element
+5. Accessibility of Radio Buttons `<fieldset>` and `<legend>` element
+
+**Thoughts**: The new elements introduced in HTML5 gives a better understanding rather than using so many `<div>` element giving it a class or id. How magical is this? I'm definitely going to start using these new elements hopefully it will make it make sense.
+
+**Link(s) to work**
+1. I'm working on code to show these elements. Be back later.
