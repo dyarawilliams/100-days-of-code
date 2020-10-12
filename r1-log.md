@@ -18,3 +18,7 @@ Continuation of Applied Visual Design still progressing. Created an [Example of 
 
 ### R1D5
 Completed Responsive Web Design: Applied Visual Design on freeCodeCamp. Learned about creating 2D graphics & using keyframes to manipulate animations in CSS. 
+
+### R1D6 
+
+Completed 55% of Applied Accessibility on freeCodeCamp. Was introduced to many elements that makes web designs accesible for people with visual, auditory, mobility, or cognitive disabilities.
