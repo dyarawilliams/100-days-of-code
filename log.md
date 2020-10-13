@@ -77,3 +77,19 @@ Also here's a few topics that were covered:
 
 **Link(s) to work**
 1. [Applied Accessibility](https://codepen.io/dyarawilliams/full/GRqpZBp)
+
+### Day 7: October 13, 2020 Tuesday 
+
+**Today's Progress**: Completed 100% of Responsive Web Design: Applied Accessibility section on freeCodeCamp. Worked on my site I started on yesterday and the link is listed below. I have plans to finish it.
+
+Here is a few topics that were covered:
+1. Accessible Date Picker & Standard Time `<time datetime="2020-10-20">` 
+2. Visually Hide Content in CSS `overflow: hidden;`
+3. Avoiding Color Blindness Issues
+4. Using brief descriptive text with `<a>` tag
+5. Making Links Navigable in HTML with `accesskey` and `tabindex` attributes
+
+**Thoughts**: So I decided to apply some of these topics into creating my own site and I realized that I'm  struggling setting up the margins or padding of the content. I can picture how I want my page to be but I can't seem to get it together. Maybe I'm just thinking too hard about it. Putting them into a container sounds best for me, but I still get so confused. 
+
+**Link(s) to work**
+1. [Applied Accessibility](https://codepen.io/dyarawilliams/full/GRqpZBp)
