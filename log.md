@@ -76,4 +76,4 @@ Also here's a few topics that were covered:
 **Thoughts**: The new elements introduced in HTML5 gives a better understanding rather than using so many `<div>` element giving it a class or id. How magical is this? I'm definitely going to start using these new elements hopefully it will make it make sense.
 
 **Link(s) to work**
-1. I'm working on code to show these elements. Be back later.
+1. [Applied Accessibility](https://codepen.io/dyarawilliams/full/GRqpZBp)
