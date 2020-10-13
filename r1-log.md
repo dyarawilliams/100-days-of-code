@@ -22,3 +22,7 @@ Completed Responsive Web Design: Applied Visual Design on freeCodeCamp. Learned 
 ### R1D6 
 
 Completed 55% of Applied Accessibility on freeCodeCamp. Was introduced to many elements that makes web designs accesible for people with visual, auditory, mobility, or cognitive disabilities.
+
+### R1D7
+
+Completed 100% of Applied Accessibility on freeCodeCamp. Also worked on my web page I began on yesterday to change a few things that I leared previously and today. [Applied Accessibility](https://codepen.io/dyarawilliams/full/GRqpZBp)
