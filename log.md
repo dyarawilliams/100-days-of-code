@@ -89,7 +89,22 @@ Here is a few topics that were covered:
 4. Using brief descriptive text with `<a>` tag
 5. Making Links Navigable in HTML with `accesskey` and `tabindex` attributes
 
-**Thoughts**: So I decided to apply some of these topics into creating my own site and I realized that I'm  struggling setting up the margins or padding of the content. I can picture how I want my page to be but I can't seem to get it together. Maybe I'm just thinking too hard about it. Putting them into a container sounds best for me, but I still get so confused. 
+**Thoughts**: So I decided to apply some of these topics into creating my own site and I realized that I'm struggling setting up the margins or padding of the content. I can picture how I want my page to be but I can't seem to get it together. Maybe I'm just thinking too hard about it. Putting them into a container sounds best for me, but I still get so confused. 
+
+**Link(s) to work**
+1. [Applied Accessibility](https://codepen.io/dyarawilliams/full/GRqpZBp)
+
+### Day 8: October 14, 2020 Wednesday 
+
+**Today's Progress**: Completed 100% of Responsive Web Design Principles section on freeCodeCamp. Made some changes to the web page I'm creating on Accessibility couldn't figure out why the images were out of the container. 
+
+Here is a few topics that were covered today:
+1. Media Queries
+2. Making a Image Responsive
+3. Using Retina Images for Higher Resoulution Display
+4. Making Typography Responsive 
+
+**Thoughts**: The images were wider than the container when I resized the page.(solved it) All I had to do was add the img selector to the CSS stylesheet, then add `max-width` property, and set it to 100% and this makes sure the image is never wider than the container. The `height` property will have a value of auto which keeps the original aspect ratio. Can't wait to get into the Flexbox and Grid section so I would not fear setting up the layout on my own.
 
 **Link(s) to work**
 1. [Applied Accessibility](https://codepen.io/dyarawilliams/full/GRqpZBp)
