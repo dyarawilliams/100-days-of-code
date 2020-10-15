@@ -29,4 +29,6 @@ Completed 100% of Applied Accessibility on freeCodeCamp. Also worked on my web p
 ### R1D8
 Completed Responsive Web Design Principles section on freeCodeCamp and I'm applying it. Worked on the web page that I have named Applied Accessibility thinking about changing the name and adding more info.
 
+### R1D9
+Watched a video on Responsive Web Design - HTML & CSS on freeCodeCamp youtube channel. Made some changes to the previous site I've been working on for the past few days.
 
