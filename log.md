@@ -108,3 +108,12 @@ Here is a few topics that were covered today:
 
 **Link(s) to work**
 1. [Applied Accessibility](https://codepen.io/dyarawilliams/full/GRqpZBp)
+
+### Day9: October 15, 2020 Thursday
+
+**Today's Progress**: Watched freeCodeCamp video on [Introduction to Responsive Web Design - HTML & CSS](https://youtu.be/srvUrASNj0s). Also changed a few things that I learned on Applied Accessibility(see link below). 
+
+**Thoughts**: Today was kinda a rough day, so I decided to watch a video. Didn't get the chance to get into the next section on [freeCodeCamp](www.freecodecamp.com/learn). Didn't come up with a new name for Applied Accessibility web page I created.
+
+**Link(s) to Work**
+1. [Applied Accessibility](https://codepen.io/dyarawilliams/full/GRqpZBp)
