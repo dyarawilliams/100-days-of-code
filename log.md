@@ -109,7 +109,7 @@ Here is a few topics that were covered today:
 **Link(s) to work**
 1. [Applied Accessibility](https://codepen.io/dyarawilliams/full/GRqpZBp)
 
-### Day9: October 15, 2020 Thursday
+### Day 9: October 15, 2020 Thursday
 
 **Today's Progress**: Watched freeCodeCamp video on [Introduction to Responsive Web Design - HTML & CSS](https://youtu.be/srvUrASNj0s). Also changed a few things that I learned on Applied Accessibility(see link below). 
 
@@ -117,3 +117,12 @@ Here is a few topics that were covered today:
 
 **Link(s) to Work**
 1. [Applied Accessibility](https://codepen.io/dyarawilliams/full/GRqpZBp)
+
+### Day 10: October 16, 2020 Friday
+
+**Today's Progress**: Began the lesson [CSS Flexbox on freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/). 
+
+**Thoughts**: Will be doing this a few days the fact being that this is not my first time doing seeing flexbox and I feel like I would need alot of repetition to fully understand each property of the flexbox. Yesterday Day 9 video that I watched was very helpful because I got to visually see how it is done, so that is great. I'll be working on different types of layouts that I can come up with.
+
+**Link(s) to Work**:
+1. None
