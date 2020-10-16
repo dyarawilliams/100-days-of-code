@@ -32,3 +32,6 @@ Completed Responsive Web Design Principles section on freeCodeCamp and I'm apply
 ### R1D9
 Watched a video on Responsive Web Design - HTML & CSS on freeCodeCamp youtube channel. Made some changes to the previous site I've been working on for the past few days.
 
+### R1D10
+Began lesson on CSS Flexbox on freeCodeCamp. Working on different layouts that can be done with the display property.
+
