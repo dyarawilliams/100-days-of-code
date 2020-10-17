@@ -122,7 +122,12 @@ Here is a few topics that were covered today:
 
 **Today's Progress**: Began the lesson [CSS Flexbox on freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/). 
 
-**Thoughts**: Will be doing this a few days the fact being that this is not my first time doing seeing flexbox and I feel like I would need alot of repetition to fully understand each property of the flexbox. Yesterday Day 9 video that I watched was very helpful because I got to visually see how it is done, so that is great. I'll be working on different types of layouts that I can come up with.
+Here is what I learned:
+1. `display: flex;`add to a element when you want to add flex container to
+2. `flex-direction`property to align any children of that element into rows or columns. 
+3. To fill all the spaces or align container use `justify-content` or `align-items` property
+
+**Thoughts**: Will be doing this for a few days the fact being that this is not my first time doing seeing flexbox and I feel like I would need alot of repetition to fully understand each property of the flexbox. Yesterday Day 9 video that I watched was very helpful because I got to visually see how it is done, so that is great. I'll be working on different types of layouts that I can come up with.
 
 **Link(s) to Work**:
 1. None
