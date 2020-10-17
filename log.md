@@ -131,3 +131,21 @@ Here is what I learned:
 
 **Link(s) to Work**:
 1. None
+
+### Day 11: October 17, 2020 Saturday
+
+**Today's Progress**: Completed [CSS Flexbox on freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/). Also I used the site [Flexbox Froggy](http://flexboxfroggy.com/) which was very helpful also. 
+
+Here are the properties I learned today about Flexbox:
+
+1. `flex-wrap` splits a flex item into multiple rows or columns
+2. `flex-shrink` allows an item to shrink the flex container, it takes numbers as values
+3. `flex-grow` is the opposite of shrink it grows the flex container
+4. `flex-basis` specifies the initial size of item before CSS makes adjustments
+5. The short hand for flex is `flex: (flex-grow) (flex-shrink) (flex-basis) ;`
+6. `align-self` allows you to adjust each item's alignment individually instead of setting them all at once
+
+**Thoughts**: This is going good CSS Flexbox isn't that hard as I was making it seem in the beginning. On the Flexbox Froggy site there was a property that was not introduced in freeCodeCamp's lesson which is `flex-flow` which has the values for the flex-direction and flex-wrap. Example, `flex-flow: (flex-direction) (flex-wrap);`
+
+**Link(s) to Work**:
+1. *Will add Codepen before 12 or before I go to sleep tonight*
