@@ -35,3 +35,6 @@ Watched a video on Responsive Web Design - HTML & CSS on freeCodeCamp youtube ch
 ### R1D10
 Began lesson on CSS Flexbox on freeCodeCamp. Working on different layouts that can be done with the display property.
 
+### R1D11 
+Completed [CSS Flexbox on freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/). Still currently practicing on flexbox.
+
