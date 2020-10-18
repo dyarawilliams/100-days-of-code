@@ -148,4 +148,4 @@ Here are the properties I learned today about Flexbox:
 **Thoughts**: This is going good CSS Flexbox isn't that hard as I was making it seem in the beginning. On the Flexbox Froggy site there was a property that was not introduced in freeCodeCamp's lesson which is `flex-flow` which has the values for the flex-direction and flex-wrap. Example, `flex-flow: (flex-direction) (flex-wrap);`
 
 **Link(s) to Work**:
-1. *Will add Codepen before 12 or before I go to sleep tonight*
+1. [Flexbox](https://codepen.io/dyarawilliams/full/dyXMBgb)
