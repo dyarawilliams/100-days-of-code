@@ -40,3 +40,6 @@ Completed [CSS Flexbox on freeCodeCamp](https://www.freecodecamp.org/learn/respo
 
 ### R1D12
 Worked on my Flexbox webpage. Also did some more research on flexbox to get a better understanding from different point of views.
+
+### R1D13
+Began lesson on [CSS Grid on freeodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/). Rewatched first 2 hoursvideo of Responsive Web Design from Day 9.
