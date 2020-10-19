@@ -149,3 +149,13 @@ Here are the properties I learned today about Flexbox:
 
 **Link(s) to Work**:
 1. [Flexbox](https://codepen.io/dyarawilliams/full/dyXMBgb)
+
+### Day 12: October 18, 2020 Sunday
+
+**Today's Progress**: Worked on my Flexbox webpage. Also did some more research on flexbox to get a better understanding from different point of views.
+
+**Thoughts**: Relied on [CSS Flexible Box Layout](https://www.w3.org/TR/css-flexbox-1/) for the standard for flex box, but someone who can explain it without so much detail is what I prefered.
+
+**Link(s) to Work**:
+1. [Flexbox](https://codepen.io/dyarawilliams/full/dyXMBgb)
+
