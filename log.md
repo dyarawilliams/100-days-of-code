@@ -159,3 +159,21 @@ Here are the properties I learned today about Flexbox:
 **Link(s) to Work**:
 1. [Flexbox](https://codepen.io/dyarawilliams/full/dyXMBgb)
 
+### Day 13: October 19, 2020 Monday
+
+**Today's Progress**: Began lesson on [CSS Grid on freeodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/). Rewatched first 2 hours of freeCodeCamp Responsive Web Design from Day 9 plan to finish the other 2 hours soon.
+
+Here's what I learned today:
+
+1. Set `display: grid`to turn into a grid container
+2. Units to Change the Size of Columns and Rows( **px**, **em**, **fr**, **auto**, and **%**)
+3. `grid-template-columns` will add a set number of columns determined the number of parameters
+4. `grid-template-rows` will set add a set number of rows determined the number of parameters
+5. `grid-column-gap` creates a gap between the contents columns using the units specified for grid
+6. `grid-row-gap` creates a gap between the contents rows using the units specified for grid
+7. Shorthand `grid-gap: (grid-row-gap) (grid-column-gap);`
+
+**Thoughts**: This seems alot simpler than Flexbox but in reality it's not because it helps you build complex web designs. I'm sure its more to it than what I learned today; didn't get to finish the whole section. Before its time to do the projects for the Responsive Web Design section I plan to find a video to help me give it more features.
+
+**Link(s) to Work**:
+1. None
