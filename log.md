@@ -177,3 +177,32 @@ Here's what I learned today:
 
 **Link(s) to Work**:
 1. None
+
+### Day 14: October 20, 2020 Tuesday
+
+**Today's Progress**: Finished the CSS Grid lesson on freeCode Camp.
+
+Here's what I learned today:
+
+1. `grid-row`
+2. `justify-self` and `align-self`
+3. `justify-items` and `align-items`
+4. Grid Into Area Template `grid-template-areas`
+5. Reduce Repetition Using `repeat()` function
+6. Limit Item Size Using `minmax()` function
+7. Create Flexible Layouts Using `auto-fill` and `auto-fit`
+
+**Thoughts**: Forgot to log yesterday so I'm logging on the next day.. Sorry. But CSS Grid seemed more easier to learn than CSS Flexbox although I did have a problem in the beginning with the grid-column and grid-row properties such as `grid-column: 2 / 4;` ... I get it now. 
+
+**Link(s) to Work**:
+1. None
+
+### Day 15: October 21, 2020 Wednesday
+
+**Today's Progress**: Started on the first project of Responsive Web Design: Tribute Page. Completed it also in the same day.
+
+**Thoughts**: Didn't think I would be able to complete this project in one day but it was simple and straight to the point
+
+**Link(s) to Work**:
+1. [My Tribute Page](https://codepen.io/dyarawilliams/full/PozGapR)
+
