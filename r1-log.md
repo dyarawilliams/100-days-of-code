@@ -43,3 +43,9 @@ Worked on my Flexbox webpage. Also did some more research on flexbox to get a be
 
 ### R1D13
 Began lesson on [CSS Grid on freeodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/). Rewatched first 2 hoursvideo of Responsive Web Design from Day 9.
+
+### R1D14
+Completed lesson on CSS Grid.
+
+### R1D15 
+Began first project on Responsive Web Design. The project was to create a Tribute page I decided to do mine on Dr. Martin Luther King Jr.
