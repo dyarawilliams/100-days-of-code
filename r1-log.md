@@ -49,3 +49,6 @@ Completed lesson on CSS Grid.
 
 ### R1D15 
 Began first project on Responsive Web Design. The project was to create a Tribute page I decided to do mine on Dr. Martin Luther King Jr.
+
+### R1D16
+Started on the Survery Form project from freeCodeCamp. Didn't get to complete it. Having trouble with the margins and padding.
