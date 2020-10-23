@@ -206,3 +206,12 @@ Here's what I learned today:
 **Link(s) to Work**:
 1. [My Tribute Page](https://codepen.io/dyarawilliams/full/PozGapR)
 
+### Day 16: October 22, 2020 Thursday
+
+**Today's Progress**: Started on the second project of Responsive Web Design: Survey Form. 
+
+**Thoughts**: This was also interesting, but didn't get to finish it. Working with the margins and padding now. Im getting there slowly but surely.
+
+**Link(s) to Work**: 
+1. *"I'm Embarassed I'll post it on tomorrow log when I do more work to it"*
+
