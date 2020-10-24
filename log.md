@@ -215,3 +215,12 @@ Here's what I learned today:
 **Link(s) to Work**: 
 1. *"I'm Embarassed I'll post it on tomorrow log when I do more work to it"*
 
+### Day 17: October 23, 2020 Friday
+
+**Today's Progress**: Still working on my Survey Form project. Did some more research on the best way to do a layout for a form.
+
+**Thoughts**: When working with a survey form I'd like to center it. Played around with the linear gradient fuction and got a background image to look as if it was fading I thought that was so cool. So I have a background that I want but cant get the input box to strectch will probably have to add a class to it and do it that way it makes more since. Okay going to do that now.
+
+**Link(s) to Work**:
+1. [Survey Form](https://codepen.io/dyarawilliams/full/BazQMow)
+
