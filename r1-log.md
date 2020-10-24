@@ -52,3 +52,6 @@ Began first project on Responsive Web Design. The project was to create a Tribut
 
 ### R1D16
 Started on the Survery Form project from freeCodeCamp. Didn't get to complete it. Having trouble with the margins and padding.
+
+### R1D17
+Still working on my Survey Form project. Did some more research on the best way to do a layout for a form. Made a few changes
