@@ -55,3 +55,6 @@ Started on the Survery Form project from freeCodeCamp. Didn't get to complete it
 
 ### R1D17
 Still working on my Survey Form project. Did some more research on the best way to do a layout for a form. Made a few changes
+
+### R1D18
+Watched the last 2 hours of freeCodeCamp YouTube channel 4 hour video on Responsive Web Design. 
