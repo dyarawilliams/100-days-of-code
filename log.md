@@ -224,3 +224,23 @@ Here's what I learned today:
 **Link(s) to Work**:
 1. [Survey Form](https://codepen.io/dyarawilliams/full/BazQMow)
 
+### Day 18: October 24, 2020 Saturday
+
+**Today's Progress**: Watched the last 2 hours of the 4 hour video on freeCodeCamp Youtube Channel about Responsive Web Design Video. 
+
+**Thoughts**: I have a lot of thought about creating a blog but I'm strugging with margin and padding
+
+**Link(s) to Work**:
+1. None
+
+### Day 19: October 25, 2020 Sunday
+
+**Today's Progress**: Completed the Survey Project on freeCodeCamp website.
+
+**Thoughts**: I've had many challenges trying to complete this project. My main reason why I stopped web design before was because I know how to work the padding and margin properties but I can never get an layout to look even. Learning CSS flexbox and CSS Grid explains alot. Doing this survey form I didn't have to use neither, so I had to do some research on `calc()` function to get my input widths to work properly. 
+
+**Link(s) to Work**: 
+1. [Survey Form](https://codepen.io/dyarawilliams/full/BazQMow)
+
+
+
