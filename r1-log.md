@@ -60,4 +60,4 @@ Still working on my Survey Form project. Did some more research on the best way 
 Watched the last 2 hours of freeCodeCamp YouTube channel 4 hour video on Responsive Web Design. 
 
 ### R1D19
-Completed the Survey Form Project.
+Completed the Survey Form Project on freeCodeCamp.
