@@ -61,3 +61,9 @@ Watched the last 2 hours of freeCodeCamp YouTube channel 4 hour video on Respons
 
 ### R1D19
 Completed the Survey Form Project on freeCodeCamp.
+
+### R1D20
+Began [Computer Programming course on Khan Academy](https://www.khanacademy.org/computing/computer-programming).
+
+### R1D21
+Continued course on Computer Programming on Khan Academy.
