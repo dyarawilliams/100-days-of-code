@@ -242,5 +242,20 @@ Here's what I learned today:
 **Link(s) to Work**: 
 1. [Survey Form](https://codepen.io/dyarawilliams/full/BazQMow)
 
+### Day 20: October 26, 2020 Monday
 
+**Today's Progress**: Began [Computer Programming course on Khan Academy](https://www.khanacademy.org/computing/computer-programming). In this unit the goal is to learn how to use the JavaScript language and the ProcessingJS library to create fun drawings and animations.
 
+**Thoughts**: This is very interesting because it begins with Drawing and Animation in JavaScript(JS) for the first unit. It was fun creating a snowman and giving him arms with the `line` function. I learned that an `ellipse` function value x positions is actually determined from the center of the shape, while the `rect` function starts from the upper left of the shape. *I hope I'm right if I listened correctly.*
+
+**Link(s) to Work**: 
+1. None
+
+### Day 21: October 27, 2020 Tuesday
+
+**Today's Progress**: Continued Computer Programming course on Khan Academy.
+
+**Thoughts**: I learned about the fill and stroke function *tbh i already knew this*. Already knew how to add a background it was simple like the property used in CSS just `background`.
+
+**Link(s) to Work**:
+1. None
