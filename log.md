@@ -269,3 +269,13 @@ Here's what I learned today:
 **Link(s) to Work**:
 1. ["What's for Dinner" challlenge](https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5516321989804032)
 
+### Day 23: October 29, 2020 Thursday
+
+**Today's Progress**: Learned how to use variables to hold values, and animate drawings with JS at Khan Academy Computer Programming course.
+
+**Thoughts**:  Refreshed my memory of technical terms like assignment operator.The term camel case is new to me don't believe I've heard it before.
+
+**Link(s) to Work**:
+1. "Bucktooth Bunny" challenge
+2. "Funky Frog" challenge
+3. "Exploding Sun" challenge
