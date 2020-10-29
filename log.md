@@ -259,3 +259,13 @@ Here's what I learned today:
 
 **Link(s) to Work**:
 1. None
+
+### Day 22: October 28, 2020 Wednesday
+
+**Today's Progress**: Completed the "What's for Dinner" challenge @khanacademy in the Computer Programming course.
+
+**Thoughts**: This challenge was fun to do .. Mind wasn't working right so it took me some time to think of what can I could actually draw using the `ellipse` `rect` and `line` function. Really wanted to draw a fish but just couldn't come up with an actual idea of how it could be drawn at that moment *probably could have drew the ellipse then drew a triangle for the tail*. I'll try that fish out in the future. 
+
+**Link(s) to Work**:
+1. ["What's for Dinner" challlenge](https://www.khanacademy.org/computer-programming/spin-off-of-project-whats-for-dinner/5516321989804032)
+
