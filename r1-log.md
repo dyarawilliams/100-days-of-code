@@ -72,4 +72,4 @@ Continued course on Computer Programming on Khan Academy.
 Completed the "What's for Dinner" challenge from @khanacademy computer programming course.
 
 ### R1D23
-Learned about variables in JS in Khan Academy Computer Programming course.
+Learned about variables and animations in JS processing library in Khan Academy Computer Programming course.
