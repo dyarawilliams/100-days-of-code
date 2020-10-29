@@ -67,3 +67,6 @@ Began [Computer Programming course on Khan Academy](https://www.khanacademy.org/
 
 ### R1D21
 Continued course on Computer Programming on Khan Academy.
+
+### R1D22
+Completed the "What's for Dinner" challenge from @khanacademy computer programming course.
