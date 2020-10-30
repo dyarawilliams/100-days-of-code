@@ -246,7 +246,7 @@ Here's what I learned today:
 
 **Today's Progress**: Began [Computer Programming course on Khan Academy](https://www.khanacademy.org/computing/computer-programming). In this unit the goal is to learn how to use the JavaScript language and the ProcessingJS library to create fun drawings and animations.
 
-**Thoughts**: This is very interesting because it begins with Drawing and Animation in JavaScript(JS) for the first unit. It was fun creating a snowman and giving him arms with the `line` function. I learned that an `ellipse` function value x positions is actually determined from the center of the shape, while the `rect` function starts from the upper left of the shape. *I hope I'm right if I listened correctly.*
+**Thoughts**: This is very interesting because it begins with Drawing and Animation in JavaScript(JS) processing.js library for the first unit. It was fun creating a snowman and giving him arms with the `line` function. I learned that an `ellipse` function value x positions is actually determined from the center of the shape, while the `rect` function starts from the upper left of the shape. *I hope I'm right if I listened correctly.*
 
 **Link(s) to Work**: 
 1. None
@@ -271,11 +271,11 @@ Here's what I learned today:
 
 ### Day 23: October 29, 2020 Thursday
 
-**Today's Progress**: Learned how to use variables to hold values, and animate drawings with JS at Khan Academy Computer Programming course.
+**Today's Progress**: Learned how to use variables to hold values, and animate drawings with processing library in JS at Khan Academy Computer Programming course.
 
 **Thoughts**:  Refreshed my memory of technical terms like assignment operator.The term camel case is new to me don't believe I've heard it before.
 
 **Link(s) to Work**:
-1. "Bucktooth Bunny" challenge
-2. "Funky Frog" challenge
-3. "Exploding Sun" challenge
+1. ["Bucktooth Bunny" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-bucktooth-bunny/5005679063154688)
+2. ["Funky Frog" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/6736040520531968)
+3. ["Exploding Sun" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-exploding-sun/5670891651022848)
