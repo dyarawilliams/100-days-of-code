@@ -279,3 +279,12 @@ Here's what I learned today:
 1. ["Bucktooth Bunny" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-bucktooth-bunny/5005679063154688)
 2. ["Funky Frog" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/6736040520531968)
 3. ["Exploding Sun" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-exploding-sun/5670891651022848)
+
+### Day 24: October 30, 2020
+
+**Today's Progress**: Continued working on animations on Computer Programming course at Khan Academy.
+
+**Thoughts**: Worked on incrementing shorcuts such as `x += 1;` which has the same meaning as  `x = x + 1;`. This is where math comes in cause you will have to know the right expressions to use to make your program do what you want it to.
+
+**Link(s) to Work**:
+1. none
