@@ -76,3 +76,6 @@ Learned about variables and animations in JS processing library in Khan Academy 
 
 ### R1D24
 Continued working on animations on the Computer Programming course at Khan Academy.
+
+### R1D25 
+Learned how to make programs that draw shapes based on the mouse location, also how to use variable expressions to resize parts of your drawing relative to other parts.
