@@ -287,4 +287,4 @@ Here's what I learned today:
 **Thoughts**: Worked on incrementing shorcuts such as `x += 1;` which has the same meaning as  `x = x + 1;` or `x++`. This is where math comes in cause you will have to know the right expressions to use to make your program do what you want it to.
 
 **Link(s) to Work**:
-1. none
+1. ["Parting Clouds" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-parting-clouds/5661769257926656)
