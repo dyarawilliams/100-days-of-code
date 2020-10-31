@@ -284,7 +284,7 @@ Here's what I learned today:
 
 **Today's Progress**: Continued working on animations on Computer Programming course at Khan Academy.
 
-**Thoughts**: Worked on incrementing shorcuts such as `x += 1;` which has the same meaning as  `x = x + 1;`. This is where math comes in cause you will have to know the right expressions to use to make your program do what you want it to.
+**Thoughts**: Worked on incrementing shorcuts such as `x += 1;` which has the same meaning as  `x = x + 1;` or `x++`. This is where math comes in cause you will have to know the right expressions to use to make your program do what you want it to.
 
 **Link(s) to Work**:
 1. none
