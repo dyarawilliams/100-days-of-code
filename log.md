@@ -280,7 +280,7 @@ Here's what I learned today:
 2. ["Funky Frog" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-funky-frog/6736040520531968)
 3. ["Exploding Sun" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-exploding-sun/5670891651022848)
 
-### Day 24: October 30, 2020
+### Day 24: October 30, 2020 Friday
 
 **Today's Progress**: Continued working on animations on Computer Programming course at Khan Academy.
 
@@ -288,3 +288,14 @@ Here's what I learned today:
 
 **Link(s) to Work**:
 1. ["Parting Clouds" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-parting-clouds/5661769257926656)
+
+### Day 25: October 31, 2020 Saturday
+
+**Today's Progress**: Learned how to make programs that draw shapes based on the mouse location, also how to use variable expressions to resize parts of your drawing relative to other parts.
+
+**Thoughts**: I wish to complete alot more so i can get to the HTML & CSS session so I can complete my projects on freeCodeCamp don't want to forget what I've learned thus far.
+
+**Link(s) to Work**:
+1. ["Shooting star" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6314007018029056)
+2. ["Tasty tomato" challenge]()
+3. ["Brown bear eyes" challenge]()
