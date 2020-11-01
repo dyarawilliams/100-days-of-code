@@ -300,3 +300,12 @@ Here's what I learned today:
 2. ["Tasty tomato" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-tasty-tomato/5065618393612288)
 3. [" Mouse movement mania" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-mouse-movement-mania/5774872423383040)
 3. ["Brown bear eyes" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-brown-bear-eyes/6494884993908736)
+
+### Day 26: November 1, 2020 Sunday
+
+**Today's Progress**: Completed the "Animal attack" challenge at khanacademy. Also worked on how to display text on a canvas, resize it, color it, and animate it.
+
+**Thoughts**: Created a panda on ice but what I wanted the panda to do I just didn't think hard enough on it. I wanted the panda to enlarge it's eyes as the panda is about to attack. The program does that but the eyes aren't porportional as they get bigger.
+
+**Link(s) to Work**:
+1. ["Animal attack" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6737399516971008)
