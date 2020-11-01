@@ -297,5 +297,6 @@ Here's what I learned today:
 
 **Link(s) to Work**:
 1. ["Shooting star" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/6314007018029056)
-2. ["Tasty tomato" challenge]()
-3. ["Brown bear eyes" challenge]()
+2. ["Tasty tomato" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-tasty-tomato/5065618393612288)
+3. [" Mouse movement mania" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-mouse-movement-mania/5774872423383040)
+3. ["Brown bear eyes" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-brown-bear-eyes/6494884993908736)
