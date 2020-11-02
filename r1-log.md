@@ -79,3 +79,6 @@ Continued working on animations on the Computer Programming course at Khan Acade
 
 ### R1D25 
 Learned how to make programs that draw shapes based on the mouse location, also how to use variable expressions to resize parts of your drawing relative to other parts.
+
+### R1D26
+Completed the "Animal attack" challenge at khanacademy. Also worked on how to display text on a canvas, resize it, and color it.
