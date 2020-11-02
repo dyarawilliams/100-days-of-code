@@ -309,3 +309,12 @@ Here's what I learned today:
 
 **Link(s) to Work**:
 1. ["Animal attack" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/6737399516971008)
+
+### Day 27: November 2, 2020 Monday
+
+**Today's Progress**: Learned about how to make code reusable using functions in Javascript, and making those functions accept parameters and return values. Also learned about the mouseMoved function.
+
+**Thoughts**: Remember hearing terms like return statement, local and global variables *i learned about this in java during my undergrad years so it's similar*. Creating a function for a calculator was simple you just need the right symbols and parameters. 
+
+**Link(s) to Work**:
+1. ["Calculator" challenge](https://www.khanacademy.org/computer-programming/challenge-calculator/4989937529864192)
