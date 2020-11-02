@@ -82,3 +82,6 @@ Learned how to make programs that draw shapes based on the mouse location, also 
 
 ### R1D26
 Completed the "Animal attack" challenge at khanacademy. Also worked on how to display text on a canvas, resize it, and color it.
+
+### R1D27 
+Re-learned about how to reuse code using functions in javascript, also how to make them accept parameters and return values.
