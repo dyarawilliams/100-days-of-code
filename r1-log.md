@@ -85,3 +85,6 @@ Completed the "Animal attack" challenge at khanacademy. Also worked on how to di
 
 ### R1D27 
 Re-learned about how to reuse code using functions in javascript, also how to make them accept parameters and return values.
+
+### R1D28 
+Worked on the "fish tank" project on codeacademy's computer programming course. After I completed this I worked on Bootstrap 3.4.1.
