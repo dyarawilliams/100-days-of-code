@@ -318,3 +318,13 @@ Here's what I learned today:
 
 **Link(s) to Work**:
 1. ["Calculator" challenge](https://www.khanacademy.org/computer-programming/challenge-calculator/4989937529864192)
+
+### Day 28: November 3, 2020
+
+**Today's Progress**: Well today is election day and I've been nervous as ever. But today I worked on the "fish tank" project on codeacademy's computer programming course. After I completed this I worked on Bootstrap 3.4.1. 
+
+**Thought**: Well to begin with I want my fish to change random colors at random positions. I know how to use the random function but I dont know how to use 3 parameter to pass a rgb value. I'll keep this in mind for future references. Working with Bootstrap I can finally get my webpage to have equal columns just the way I want them (I only wanted 3 max).
+
+**Links(s) to Work**: 
+1. ["Fish tank" project](https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/6566248814690304)
+2. [Bootstrap 3.4.1](https://codepen.io/dyarawilliams/full/JjKZXJV)
