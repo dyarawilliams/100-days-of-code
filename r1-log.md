@@ -90,4 +90,8 @@ Re-learned about how to reuse code using functions in javascript, also how to ma
 Worked on the "fish tank" project on codeacademy's computer programming course. After I completed this I worked on Bootstrap 3.4.1.
 
 ### R1D29
-Completed the "fish tank" project and I'm satisfied now. Also began working on Logic and If statements on khanacademy .
+Completed the "fish tank" project and I'm satisfied now. Also began working on Logic and If statements on khanacademy.
+
+### R1D30
+Finished lesson on Logic and if Statements, and completed the Magic 8-Ball project on KhanAcademy.
+
