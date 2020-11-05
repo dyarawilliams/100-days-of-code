@@ -88,3 +88,6 @@ Re-learned about how to reuse code using functions in javascript, also how to ma
 
 ### R1D28 
 Worked on the "fish tank" project on codeacademy's computer programming course. After I completed this I worked on Bootstrap 3.4.1.
+
+### R1D29
+Completed the "fish tank" project and I'm satisfied now. Also began working on Logic and If statements on khanacademy .
