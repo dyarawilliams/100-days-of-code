@@ -319,12 +319,24 @@ Here's what I learned today:
 **Link(s) to Work**:
 1. ["Calculator" challenge](https://www.khanacademy.org/computer-programming/challenge-calculator/4989937529864192)
 
-### Day 28: November 3, 2020
+### Day 28: November 3, 2020 Tuesday
 
 **Today's Progress**: Well today is election day and I've been nervous as ever. But today I worked on the "fish tank" project on codeacademy's computer programming course. After I completed this I worked on Bootstrap 3.4.1. 
 
-**Thought**: Well to begin with I want my fish to change random colors at random positions. I know how to use the random function but I dont know how to use 3 parameter to pass a rgb value. I'll keep this in mind for future references. Working with Bootstrap I can finally get my webpage to have equal columns just the way I want them (I only wanted 3 max).
+**Thoughts**: Well to begin with I want my fish to change random colors at random positions. I know how to use the random function but I dont know how to use 3 parameter to pass a rgb value. I'll keep this in mind for future references. Working with Bootstrap I can finally get my webpage to have equal columns just the way I want them (I only wanted 3 max).
 
 **Links(s) to Work**: 
 1. ["Fish tank" project](https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/6566248814690304)
 2. [Bootstrap 3.4.1](https://codepen.io/dyarawilliams/full/JjKZXJV)
+
+### Day 29: November 4, 2020 Wednesday
+
+**Today's Progress**: Completed the "fish tank" project and I'm satisfied now. Also began working on [Logic and If statements](https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pt/if-statements) on khanacademy.
+
+**Thoughts**: Yesterday I logged that I wanted the fish to change colors and I accomplished this today, and it wasn't hard at all. Learning about if statements again brings back memories (*aww I'm relieved*). The bouncy ball challenge was something I wanted to remember how to do and this challenge helped me. The Number Analyzer challenge had me to overthink because I solved it before I even read the direction(*bad decision*) then had to start over and actually go step by step (*this was accomplished too*).
+
+**Link(s) to Work**:
+1. ["Fish tank" project](https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/6566248814690304)
+2. ["Bouncy ball" challenge](https://www.khanacademy.org/computer-programming/challenge-bouncy-ball/6669083585757184)
+3. ["Number Anaylzer" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-number-analyzer/6382030251835392)
+
