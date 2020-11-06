@@ -344,7 +344,13 @@ Here's what I learned today:
 
 **Today's Progress**:Finished lesson on Logic and if Statements, and completed the Magic 8-Ball project on KhanAcademy where i used if else statements to show different messages. Also read about debbuging programs (*how to figure out what is wrong with your program*).
 
-**Thoughts**: It can be difficult at times to figure out where you went wrong when you are coding and there is an error. Just take your time and figure it out. Using `print` or `pritnln` has helped me alot in java when I use to code in college.
+**Thoughts**: It can be difficult at times to figure out where you went wrong when you are coding and there is an error. Just take your time and figure it out. 
+
+Using these tips can help when debugging:
+- `print()` or `pritnln()` to check values 
+- `debug()` to send the output to your browser's JavaScript console
+- having an object or person to state the coding process to
+- exaggerate your output with extreme or bigger values 
 
 **Link(s) to Work**:
 1. ["Magic 8-Ball" project](https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/5857583539372032)
