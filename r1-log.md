@@ -96,4 +96,4 @@ Completed the "fish tank" project and I'm satisfied now. Also began working on L
 Finished lesson on Logic and if Statements, and completed the Magic 8-Ball project on KhanAcademy.
 
 ### R1D31
-Learned about loops in Javascript by using processingJS library on khanacademy. Began working on the "Build-a-Horse project".
+Learned about loops in Javascript by using processingJS library on khanacademy. Began working on the "Build-a-House project".
