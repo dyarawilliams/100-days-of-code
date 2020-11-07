@@ -354,3 +354,19 @@ Using these tips can help when debugging:
 
 **Link(s) to Work**:
 1. ["Magic 8-Ball" project](https://www.khanacademy.org/computer-programming/spin-off-of-project-magic-8-ball/5857583539372032)
+
+### Day 31: November 6, 2020 Friday
+
+**Today's Progress**: Learned about loops in Javascript by using processingJS library on khanacademy. Began working on the "Build-a-Horse project".
+
+**Thoughts**: Using while loops is similar to if/else if statements being that they both consider conditions. The only difference with the while loop is that it loops how many times you want and prints that each time. You can convert simple while loops into for loops which is a quicker way to tell the computer to initiliaze, and repeat the condition to me. Doing these challenges gave me the change to actually work on my problem solving skills.
+
+The 3 Loop Questions:
+- What do I want to repeat?
+- What do I want to change each time?
+- How long should we repeat?
+
+**Link(s) to Work**:
+1. ["A Loopy Ruler" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/4796509953146880)
+2. ["A Loopy Landscape" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-landscape/4884792589631488)
+3. ["Lined Paper" challenge](https://www.khanacademy.org/computer-programming/challenge-lined-paper/6549886314692608)
