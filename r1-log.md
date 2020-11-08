@@ -97,3 +97,6 @@ Finished lesson on Logic and if Statements, and completed the Magic 8-Ball proje
 
 ### R1D31
 Learned about loops in Javascript by using processingJS library on khanacademy. Began working on the "Build-a-House project".
+
+### R1D32
+Completed the "Build a House" project on KhanAcademy. Also recieved more tips on writing clean code, and completed lesson on arrays in javascript.
