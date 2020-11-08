@@ -370,3 +370,13 @@ The 3 Loop Questions:
 1. ["A Loopy Ruler" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-ruler/4796509953146880)
 2. ["A Loopy Landscape" challenge](https://www.khanacademy.org/computer-programming/spin-off-of-challenge-a-loopy-landscape/4884792589631488)
 3. ["Lined Paper" challenge](https://www.khanacademy.org/computer-programming/challenge-lined-paper/6549886314692608)
+
+### Day 32: November 7, 2020 Saturday
+
+**Today's Progress**: Completed the "Build a House" project on KhanAcademy. Also recieved more tips on writing clean code, and completed lesson on arrays in javascript.
+
+**Thoughts**: During these two projects I realized that I have to work on my problem solving skills. The Build a House was simple just had to add a for loop for the windows bushes and grass(*simple*). I felt like I was struggling the whole time on the Make It Rain project I knew the steps that needed to be taken was just overthinking. For one I was placing my for loop in the wrong spot so I started over from the beginning and wrote comments to see what was going on in each section that needed to be clarified, and I eventually came out with a solution.
+
+**Link(s) to Work**:
+1. ["Build a House" project](https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5601219533553664)
+2. ["Make It Rain" project](https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/6739354996916224)
