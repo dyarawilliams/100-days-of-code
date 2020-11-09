@@ -383,9 +383,9 @@ The 3 Loop Questions:
 
 ### Day 33: November 8, 2020 Sunday
 
-**Today's Progress**: Working on my FCC (@freeCodeCamp) - Product Landing Project .. Having trouble with fixed navigation it's completed but my first section which is a form is not showing. 
+**Today's Progress**: Working on my FCC (freeCodeCamp) - Product Landing Project .. ~~Having trouble with fixed navigation it's completed but my first section which is a form is not showing.~~ I figured it out .. GO ME.. Now i can sleep peacefully although I probably won't go to sleep for another 2 hours.. Going to work on it some more.
 
-**Thoughts**: Someone please look at this and help me :sweat: :sob: me with this.. I'm so sad right now.!!
+**Thoughts**: ~~Someone please look at this and help me :sweat: :sob: me with this.. I'm so sad right now.!!~~ I knew I could figure it out just needed a break, and to think things clearly (CHECKED MY CSS FOR ONE AND MADE SURE THAT I HAVE A SELECTOR FOR WHAT I WANT TO STYLE).
 
 **Link(s) to Work**:
 1. [FCC-Product Landing Page](https://codepen.io/dyarawilliams/pen/GRqXyqy)
