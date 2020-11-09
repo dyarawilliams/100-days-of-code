@@ -100,3 +100,6 @@ Learned about loops in Javascript by using processingJS library on khanacademy. 
 
 ### R1D32
 Completed the "Build a House" project on KhanAcademy. Also recieved more tips on writing clean code, and completed lesson on arrays in javascript.
+
+### R1D33 
+Worked on my FCC- Product Landing Page today. I'm stuck on viewing my first section after creating a fixed navigation. HELLLLLPPPPPP!!!
