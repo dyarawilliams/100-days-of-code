@@ -380,3 +380,12 @@ The 3 Loop Questions:
 **Link(s) to Work**:
 1. ["Build a House" project](https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/5601219533553664)
 2. ["Make It Rain" project](https://www.khanacademy.org/computer-programming/spin-off-of-project-make-it-rain/6739354996916224)
+
+### Day 33: November 8, 2020 Sunday
+
+**Today's Progress**: Working on my FCC (@freeCodeCamp) - Product Landing Project .. Having trouble with fixed navigation it's completed but my first section which is a form is not showing. 
+
+**Thoughts**: Someone please look at this and help me :sweat: :sob: me with this.. I'm so sad right now.!!
+
+**Link(s) to Work**:
+1. [FCC-Product Landing Page](https://codepen.io/dyarawilliams/pen/GRqXyqy)
