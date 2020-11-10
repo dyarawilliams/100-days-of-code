@@ -103,3 +103,6 @@ Completed the "Build a House" project on KhanAcademy. Also recieved more tips on
 
 ### R1D33 
 Worked on my FCC- Product Landing Page today. I'm stuck on viewing my first section after creating a fixed navigation. HELLLLLPPPPPP!!!
+
+### R1D34
+Continued working on my FCC - Product Landing Page .. playing around with different styles using CSS.
