@@ -389,3 +389,12 @@ The 3 Loop Questions:
 
 **Link(s) to Work**:
 1. [FCC-Product Landing Page](https://codepen.io/dyarawilliams/pen/GRqXyqy)
+
+### Day 34: November 9, 2020 Monday
+
+**Today's Progress**: Continued working on my FCC (freeCodeCamp) - Product Landing Page  .. playing around with different styles using CSS such as flexbox again.
+
+**Thoughts**: I feel confident now. Although I need more practice I'm puting flexbox to use and I think this page is turning out good. 
+
+**Link(s) to Work**:
+1. [FCC - Product Landing Page](https://codepen.io/dyarawilliams/full/GRqXyqy)
