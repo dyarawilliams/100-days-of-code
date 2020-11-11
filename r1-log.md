@@ -106,3 +106,6 @@ Worked on my FCC- Product Landing Page today. I'm stuck on viewing my first sect
 
 ### R1D34
 Continued working on my FCC - Product Landing Page .. playing around with different styles using CSS.
+
+### R1D35
+Played around with some margins and padding on my Product Landing Page.. Learned about how to use Font Awesome 5.
