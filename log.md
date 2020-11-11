@@ -398,3 +398,12 @@ The 3 Loop Questions:
 
 **Link(s) to Work**:
 1. [FCC - Product Landing Page](https://codepen.io/dyarawilliams/full/GRqXyqy)
+
+### Day 35: November 10, 2020 Tuesday
+
+**Today's Progress**: Played around with some margins and padding on my Product Landing Page.. Learned about how to use Font Awesome 5.
+
+**Thoughts**: This seems like it's taking forever maybe I'm being too extra could have just used Lorem to fill in certain information.
+
+**Link(s) to Work**:
+1. [FCC - Product Landing Page](https://codepen.io/dyarawilliams/full/GRqXyqy)
