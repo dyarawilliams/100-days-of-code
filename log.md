@@ -407,3 +407,12 @@ The 3 Loop Questions:
 
 **Link(s) to Work**:
 1. [FCC - Product Landing Page](https://codepen.io/dyarawilliams/full/GRqXyqy)
+
+### Day 36: November 11, 2020 Wednesday
+
+**Today's Progress**: Still working on the Product Landing Page project from freeCodeCamp. 
+
+**Thoughts**: Unfortunately I said I would be done with this project today but then I realized that the margins are off on smaller devices such as mobile. Just when I thought I had everything figured out showed me other wise. Not mad at all because I'm glad I found this problem so I can challenge my self some more. *SHould have not played around too much with the section margin and padding on each one.* 
+
+**Link(s) to Work**:
+1. [FCC - Product Landing Page](https://codepen.io/dyarawilliams/full/GRqXyqy)
