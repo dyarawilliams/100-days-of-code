@@ -109,3 +109,6 @@ Continued working on my FCC - Product Landing Page .. playing around with differ
 
 ### R1D35
 Played around with some margins and padding on my Product Landing Page.. Learned about how to use Font Awesome 5.
+
+### R1D36 
+Still working on the Product Landing Page Project from freeCodeCamp Responsive Web Design projects.
