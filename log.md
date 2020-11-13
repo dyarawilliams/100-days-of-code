@@ -388,7 +388,7 @@ The 3 Loop Questions:
 **Thoughts**: ~~Someone please look at this and help me :sweat: :sob: me with this.. I'm so sad right now.!!~~ I knew I could figure it out just needed a break, and to think things clearly (CHECKED MY CSS FOR ONE AND MADE SURE THAT I HAVE A SELECTOR FOR WHAT I WANT TO STYLE).
 
 **Link(s) to Work**:
-1. [FCC-Product Landing Page](https://codepen.io/dyarawilliams/pen/GRqXyqy)
+1. [Product Landing Page](https://codepen.io/dyarawilliams/pen/GRqXyqy)
 
 ### Day 34: November 9, 2020 Monday
 
@@ -397,7 +397,7 @@ The 3 Loop Questions:
 **Thoughts**: I feel confident now. Although I need more practice I'm puting flexbox to use and I think this page is turning out good. 
 
 **Link(s) to Work**:
-1. [FCC - Product Landing Page](https://codepen.io/dyarawilliams/full/GRqXyqy)
+1. [Product Landing Page](https://codepen.io/dyarawilliams/full/GRqXyqy)
 
 ### Day 35: November 10, 2020 Tuesday
 
@@ -406,7 +406,7 @@ The 3 Loop Questions:
 **Thoughts**: This seems like it's taking forever maybe I'm being too extra could have just used Lorem to fill in certain information.
 
 **Link(s) to Work**:
-1. [FCC - Product Landing Page](https://codepen.io/dyarawilliams/full/GRqXyqy)
+1. [Product Landing Page](https://codepen.io/dyarawilliams/full/GRqXyqy)
 
 ### Day 36: November 11, 2020 Wednesday
 
@@ -415,4 +415,15 @@ The 3 Loop Questions:
 **Thoughts**: Unfortunately I said I would be done with this project today but then I realized that the margins are off on smaller devices such as mobile. Just when I thought I had everything figured out showed me other wise. Not mad at all because I'm glad I found this problem so I can challenge my self some more. *SHould have not played around too much with the section margin and padding on each one.* 
 
 **Link(s) to Work**:
-1. [FCC - Product Landing Page](https://codepen.io/dyarawilliams/full/GRqXyqy)
+1. [Product Landing Page](https://codepen.io/dyarawilliams/full/GRqXyqy)
+
+### Day 37: November 12, 2020 Thursday
+
+**Today's Progress**: Watched some videos on CSS Box Model and a few clips on chrome devTools tricks to help me see what I'm missing in my Product Landing Page Project.
+
+**Thoughts**: Lately I've been thinking I have things under control then I overwork myself, and then just screw things up.. But I hope actually studying these things will help me in the future. I passed all test on the Product Landing Page project for freeCodeCamp but I don't like the way the links work when you interact with them. I noticed on the example when you click on the FCC project link the header covers part of the section .. I would like to get mine to start exactly at that section. Each of my sections have 100% width, and 100vh for the height. Any suggestions are welcomed.!!
+
+**Link(s) to Work**:
+1. [Master The All Important CSS Box Model - Colt's Code Camp](https://youtu.be/M1xEi_BBW1I)
+2. [Chrome DevTools in 60 seconds!](https://youtu.be/37dIV-4QT1s)
+3. [Product Landing Page](https://codepen.io/dyarawilliams/full/GRqXyqy)
