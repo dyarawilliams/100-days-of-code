@@ -112,3 +112,6 @@ Played around with some margins and padding on my Product Landing Page.. Learned
 
 ### R1D36 
 Still working on the Product Landing Page Project from freeCodeCamp Responsive Web Design projects.
+
+### R1D37
+Watched some videos on CSS Box Model and a few clips on chrome devTools tricks to help me see what I'm missing in my Product Landing Page Project.
