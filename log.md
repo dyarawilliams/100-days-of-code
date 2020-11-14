@@ -427,3 +427,12 @@ The 3 Loop Questions:
 1. [Master The All Important CSS Box Model - Colt's Code Camp](https://youtu.be/M1xEi_BBW1I)
 2. [Chrome DevTools in 60 seconds!](https://youtu.be/37dIV-4QT1s)
 3. [Product Landing Page](https://codepen.io/dyarawilliams/full/GRqXyqy)
+
+### Day 38: November 13, 2020 Friday
+
+**Today's Progress**: Completed the Product Landing Page project at [freeCodeCamp's Responsive Web Design projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/). Started on the 4th project .. Build a Technical Documentation Page.
+
+**Thoughts**: The Build a Product Landing Page was completed two days ago but because I wanted it to be perfect I prolonged it. Althought it is basic it's just the beginning of great things. I only used HTML & CSS to create this product page, basically it is a non-profit organization who find homes for companion animal such as cats and dogs.
+
+**Link(s) to Work**:
+1. [Product Landing Page](https://codepen.io/dyarawilliams/full/GRqXyqy)
