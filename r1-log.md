@@ -115,3 +115,6 @@ Still working on the Product Landing Page Project from freeCodeCamp Responsive W
 
 ### R1D37
 Watched some videos on CSS Box Model and a few clips on chrome devTools tricks to help me see what I'm missing in my Product Landing Page Project.
+
+### R1D38
+Completed the Product Landing Page project at freeCodeCamp's Responsive Web Design projects. Started on the 4th project .. Build a Technical Documentation Page.
