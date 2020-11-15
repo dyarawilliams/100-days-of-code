@@ -118,3 +118,6 @@ Watched some videos on CSS Box Model and a few clips on chrome devTools tricks t
 
 ### R1D38
 Completed the Product Landing Page project at freeCodeCamp's Responsive Web Design projects. Started on the 4th project .. Build a Technical Documentation Page.
+
+### R1D39
+Worked on the Build a Technical Documentation Page project today from freeCodeCamp's Responsive Web Design curriculum.
