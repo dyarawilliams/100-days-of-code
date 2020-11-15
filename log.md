@@ -436,3 +436,12 @@ The 3 Loop Questions:
 
 **Link(s) to Work**:
 1. [Product Landing Page](https://codepen.io/dyarawilliams/full/GRqXyqy)
+
+### Day 39: November 14, 2020 Saturday
+
+**Today's Progress**: Worked on the Build a Technical Documentation Page project today from freeCodeCamp's Responsive Web Design curriculum.
+
+**Thoughts**: This project is more simple.. All I had to do is make sure that the navbar has a height of 100% to give it a side bar, and style it how I want to. Also make sure I choose a color that follows color accessibility rules because the last project I did it this was not passed in Lighthouse devTool. 
+
+**Link(s) to Work**: 
+1. None
