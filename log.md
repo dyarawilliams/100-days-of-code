@@ -445,3 +445,12 @@ The 3 Loop Questions:
 
 **Link(s) to Work**: 
 1. None
+
+### Day 40: November 15, 2020 Sunday
+
+**Today's Progress**: Completed the Technical Documentation Page Project from freeCodeCamp's Responsive Web Design(RWD) curriculum.
+
+**Thoughts**: This was fun to do when I found out that you can customize the scroll bar I was more than excited. Although there is a small errors in my page for tablets and below it passes all test so it is completed. But I will be working on my first 3 projects to see what I can improve in them while I began my next project.
+
+**Link(s)**:
+1. [Technical Documentation Page](https://codepen.io/dyarawilliams/full/LYZaVeZ)
