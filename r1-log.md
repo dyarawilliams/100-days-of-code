@@ -121,3 +121,6 @@ Completed the Product Landing Page project at freeCodeCamp's Responsive Web Desi
 
 ### R1D39
 Worked on the Build a Technical Documentation Page project today from freeCodeCamp's Responsive Web Design curriculum.
+
+### R1D40 
+Completed the Technical Documentation Page Project from freeCodeCamp's Responsive Web Design(RWD) curriculum.
