@@ -124,3 +124,6 @@ Worked on the Build a Technical Documentation Page project today from freeCodeCa
 
 ### R1D40 
 Completed the Technical Documentation Page Project from freeCodeCamp's Responsive Web Design(RWD) curriculum.
+
+### R1D41
+Began planning how I want my next project to look.. which is Build a Personal Portfolio Webpage.
