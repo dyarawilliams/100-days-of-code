@@ -454,3 +454,12 @@ The 3 Loop Questions:
 
 **Link(s)**:
 1. [Technical Documentation Page](https://codepen.io/dyarawilliams/full/LYZaVeZ)
+
+### Day 41: November 16, 2020 Monday
+
+**Today's Progress**: Began planning how I want my next project to look.. which is Build a Personal Portfolio Webpage 
+
+**Thoughts**: This should be interesting .. Now that I know how to do vertical and horizontal navs, well I have the HTML part down but sometimes get confused with the CSS. My plan is to use flexbox again. Also to pick a nice blue color (*I might change my mind*). I will be doing the outline of the webpage tonight also.
+
+**Link(s) to Work**:
+1. None
