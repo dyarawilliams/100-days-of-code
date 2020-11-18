@@ -127,3 +127,6 @@ Completed the Technical Documentation Page Project from freeCodeCamp's Responsiv
 
 ### R1D41
 Began planning how I want my next project to look.. which is Build a Personal Portfolio Webpage.
+
+### R1D42
+Continued with my Personal Portfolio project from freeCodeCamp added a nice color to it.
