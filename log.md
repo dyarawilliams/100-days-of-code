@@ -463,3 +463,12 @@ The 3 Loop Questions:
 
 **Link(s) to Work**:
 1. None
+
+### Day 42: November 17, 2020 Tuesday
+
+**Today's Progress**: Continued working on my Personal Portfolio for freeCodeCamp's Responsive Web Design projects .. Added a nice color to it. 
+
+**Thoughts**: Like I said before I had trouble getting the nav to work but as I played around with flexbox I eventually got it to how I wanted it to look. Re-did [Flexbox Froggy](http://flexboxfroggy.com/) to see & understand the purpose of each value. I picked a nice purple and black gradient.
+
+**Link(s) to Work**:
+1. [Personal Portfolio](https://codepen.io/dyarawilliams/full/KKMYvdV)
