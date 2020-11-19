@@ -472,3 +472,12 @@ The 3 Loop Questions:
 
 **Link(s) to Work**:
 1. [Personal Portfolio](https://codepen.io/dyarawilliams/full/KKMYvdV)
+
+### Day 43: November 18, 2020 Wednesday
+
+**Today's Progress**: Continued working on my Personal Portfolio didn't make much progress because once again I am honestly lost.
+
+**Thoughts**: I just keep confusing my self.. Trying to grasp the important concept of actually giving a page layout scare me .. I got the welcome section complete but working slowly to do the other two sections. I have to create a grid for my projects and I'm not sure if I should use `display: flex;` or `display: grid;`
+
+**Link(s) to Work**:
+1. None
