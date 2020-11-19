@@ -130,3 +130,6 @@ Began planning how I want my next project to look.. which is Build a Personal Po
 
 ### R1D42
 Continued with my Personal Portfolio project from freeCodeCamp added a nice color to it.
+
+### R1D43
+Continued working on my Personal Portfolio didn't make much progress because once again I am honestly lost.
