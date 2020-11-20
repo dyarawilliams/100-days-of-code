@@ -471,7 +471,7 @@ The 3 Loop Questions:
 **Thoughts**: Like I said before I had trouble getting the nav to work but as I played around with flexbox I eventually got it to how I wanted it to look. Re-did [Flexbox Froggy](http://flexboxfroggy.com/) to see & understand the purpose of each value. I picked a nice purple and black gradient.
 
 **Link(s) to Work**:
-1. [Personal Portfolio](https://codepen.io/dyarawilliams/full/KKMYvdV)
+1. [Personal Portfolio](https://codepen.io/dyarawilliams/pen/KKMYvdV)
 
 ### Day 43: November 18, 2020 Wednesday
 
@@ -481,3 +481,12 @@ The 3 Loop Questions:
 
 **Link(s) to Work**:
 1. None
+
+### Day 44: November 19, 2020 Thursday
+
+**Today's Progress**: Completed my Personal Portfolio for freeCodeCamp's Responsive Web Design final project. 
+
+**Thoughts**: I was so excited going into this project after my Full Stack Bootcamp. They gave me hope to get it complete today and no later. My only problem is I never give a section a height so it doesn't have a size nor is there CSS in it ... Crazy right but I made that seem like it was the hardest thing to do. How can you possibly show something if you arent stying it :laughing:
+
+**Link(s) to Work**:
+1. [Personal Portfolio](https://codepen.io/dyarawilliams/full/KKMYvdV)
