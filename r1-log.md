@@ -133,3 +133,6 @@ Continued with my Personal Portfolio project from freeCodeCamp added a nice colo
 
 ### R1D43
 Continued working on my Personal Portfolio didn't make much progress because once again I am honestly lost.
+
+### R1D44 
+Completed my Personal Portfolio for freeCodeCamp's Responsive Web Design final project. I'm so excited. :smirk:
