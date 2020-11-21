@@ -490,3 +490,12 @@ The 3 Loop Questions:
 
 **Link(s) to Work**:
 1. [Personal Portfolio](https://codepen.io/dyarawilliams/full/KKMYvdV)
+
+### Day 45: November 20, 2020 Friday
+
+**Today's Progress**: Using float and clear to create 3 layouts using HTML & CSS.
+
+**Thoughts**: Well this was a task because now that I was introduced to flexbox and grid I don't have to do it this way so this is a challenge for me.
+
+**Link(s) to Work**:
+1. *I'll add them later*
