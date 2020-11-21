@@ -136,3 +136,6 @@ Continued working on my Personal Portfolio didn't make much progress because onc
 
 ### R1D44 
 Completed my Personal Portfolio for freeCodeCamp's Responsive Web Design final project. I'm so excited. :smirk:
+
+### R1D45
+Using float and clear to create 3 layouts using HTML & CSS.
