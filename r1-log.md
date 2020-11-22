@@ -139,3 +139,6 @@ Completed my Personal Portfolio for freeCodeCamp's Responsive Web Design final p
 
 ### R1D45
 Using float and clear to create 3 layouts using HTML & CSS.
+
+### R1D46 
+Played this fun game called CSS Diner where you learn and practice CSS Selectors.
