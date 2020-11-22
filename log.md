@@ -499,3 +499,12 @@ The 3 Loop Questions:
 
 **Link(s) to Work**:
 1. *I'll add them later*
+
+### Day 46: November 21, 2020 Saturday
+
+**Today's Progress**: Played this fun game called CSS Diner where you learn and practice CSS Selectors.
+
+**Thoughts**: This game is very fun to play .. Today's lesson was to engage in a activity where I can learn and practice at the same time. I was going to get a head start on Javascript but I wanted to actually understand CSS indepth which would be good for the Full Stack Web Dev Free Bootcamp I've joined.
+
+**Link(s) to Work**:
+1. [CSS Diner - Learn and Practice CSS Selectors](http://cssdiner.com/)
