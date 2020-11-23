@@ -142,3 +142,6 @@ Using float and clear to create 3 layouts using HTML & CSS.
 
 ### R1D46 
 Played this fun game called CSS Diner where you learn and practice CSS Selectors.
+
+### R1D46
+Started on the homework assignment which was to create a clone of the BBC.com website using float. 
