@@ -510,3 +510,12 @@ The 3 Loop Questions:
 
 **Link(s) to Work**:
 1. [CSS Diner - Learn and Practice CSS Selectors](http://cssdiner.com/)
+
+### Day 47: November 22, 2020 Sunday
+
+**Today's Progress**: Started on the homework assignment which was to create a clone of the BBC.com website using float, and began the Learn Javascript course on codecacademy.
+
+**Thoughts**: This is fun to do .. To actually build a website from scratch without using flexbox.. Difficult but fun. For my Javascript sections I'll be moving fast because as you remember I have already been working on javascript on khanacademy ... *I stopped on objects tho so hopefully I'll be able to test what I know and get back to it*
+
+**Link(s) to Work**:
+1. [BBC clone](https://codepen.io/dyarawilliams/full/YzWmwyx)
