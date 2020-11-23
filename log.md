@@ -500,7 +500,7 @@ The 3 Loop Questions:
 **Link(s) to Work**:
 1. [Layout 1](https://codepen.io/dyarawilliams/full/dyXBepV)
 2. [Layout 2](https://codepen.io/dyarawilliams/full/OJXewNm)
-3. Layout 3 *still working on it*
+3. [Layout 3](https://codepen.io/dyarawilliams/full/KKMOVgL)
 
 ### Day 46: November 21, 2020 Saturday
 
