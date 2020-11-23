@@ -498,7 +498,9 @@ The 3 Loop Questions:
 **Thoughts**: Well this was a task because now that I was introduced to flexbox and grid I don't have to do it this way so this is a challenge for me.
 
 **Link(s) to Work**:
-1. *I'll add them later*
+1. [Layout 1](https://codepen.io/dyarawilliams/full/dyXBepV)
+2. [Layout 2](https://codepen.io/dyarawilliams/full/OJXewNm)
+3. Layout 3 *still working on it*
 
 ### Day 46: November 21, 2020 Saturday
 
