@@ -519,3 +519,12 @@ The 3 Loop Questions:
 
 **Link(s) to Work**:
 1. [BBC clone](https://codepen.io/dyarawilliams/full/YzWmwyx)
+
+### Day 48: November 23, 2020 Monday
+
+**Today's Progress**: Read an article on How to Code Advanced HTML & CSS.
+
+**Thoughts**: Hmm it was alot to take in .. But I will use space repetition and learn all the important things.
+
+**Link(s) to Work**:
+1. [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
