@@ -145,3 +145,6 @@ Played this fun game called CSS Diner where you learn and practice CSS Selectors
 
 ### R1D47
 Started on the homework assignment which was to create a clone of the BBC.com website using float, and began the Learn Javascript course on codecademy. 
+
+### R1D48
+Read an article on How to Code Advanced HTML & CSS. 
