@@ -528,3 +528,12 @@ The 3 Loop Questions:
 
 **Link(s) to Work**:
 1. [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
+
+### Day 49: November 24, 2020 Tuesday
+
+**Today's Progress**: Still trying to figure out how to clone these websites just using floats.
+
+**Thoughts**:  I have the layout but can't decide whether or not I should be using margin or padding.. I'm sure its padding tho. Sometimes I always get confused to which property to use. I mean I know what both do and how it affects the page but always unsure of what to do with it. If I choose margin I would be sorta changing its entire position on the page, but padding just changes the content inside position. *I think*
+
+**Link(s) to Work**:
+1. *Working on it on VSCODE first*
