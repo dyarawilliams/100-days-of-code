@@ -148,3 +148,6 @@ Started on the homework assignment which was to create a clone of the BBC.com we
 
 ### R1D48
 Read an article on How to Code Advanced HTML & CSS. 
+
+### R1D49 
+Still trying to figure out how to clone these websites just using floats. I have the layout but can't decide whether or not I should be using margin or padding.. I'm sure its padding tho.
