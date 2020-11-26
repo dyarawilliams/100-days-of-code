@@ -151,3 +151,6 @@ Read an article on How to Code Advanced HTML & CSS.
 
 ### R1D49 
 Still trying to figure out how to clone these websites just using floats. I have the layout but can't decide whether or not I should be using margin or padding.. I'm sure its padding tho.
+
+### R1D50 
+Worked on making my TechCrunch and other web clones better.
