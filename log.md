@@ -537,3 +537,12 @@ The 3 Loop Questions:
 
 **Link(s) to Work**:
 1. *Working on it on VSCODE first*
+
+### Day 50: November 25, 2020 Wednesday
+
+**Today's Progress**: Worked on making my TechCrunch and other web clones better.
+
+**Thoughts**: Still trying to grasp the concept of using float to actually do a web layout. This will only make me better and I needed a challenge.
+
+**Link(s) to Work**:
+1. [TechCrunch clone](https://codepen.io/dyarawilliams/full/wvzvvxJ)
