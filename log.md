@@ -546,3 +546,12 @@ The 3 Loop Questions:
 
 **Link(s) to Work**:
 1. [TechCrunch clone](https://codepen.io/dyarawilliams/full/wvzvvxJ)
+
+### Day 51: November 26, 2020 Thursday
+
+**Today's Progress**: Continued JavaScript lesson on codecademy.
+
+**Thoughts**: I know there is a lesson on javascript on freeCodeCamp but I actually want to get a good feel of it before I began the course and projects. So this time it won't be a struggle when it's time to put what I learned into a project. It is a learning thing and I have to actually know something for a fact can't just go into it and then do something guess that's what the information is there for to chunk it.
+
+**Link(s) to Work**:
+1. None
