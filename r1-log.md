@@ -154,3 +154,6 @@ Still trying to figure out how to clone these websites just using floats. I have
 
 ### R1D50 
 Worked on making my TechCrunch and other web clones better.
+
+### R1D51
+Continued JavaScript lesson on codecademy.
