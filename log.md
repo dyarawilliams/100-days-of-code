@@ -555,3 +555,12 @@ The 3 Loop Questions:
 
 **Link(s) to Work**:
 1. None
+
+### Day 52: November 27, 2020 Friday
+
+**Today's Progress**: Still creating layouts using float for homework assignments.. This has gotten very interesting. Did a levelground-wireframe layout.
+
+**Thoughts**: Completed this with only one problem the hav section, but I recieved help this time from someone in the 100Devs community.. How awesome .. Simple but I was confused on what to do. Now that it is complete I will know what to do the next time I come across another nav section.
+
+**Link(s) to Work**: 
+1. [LevelGround-Wireframe](https://codepen.io/dyarawilliams/full/vYXEYKb)
