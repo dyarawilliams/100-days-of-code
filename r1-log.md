@@ -157,3 +157,6 @@ Worked on making my TechCrunch and other web clones better.
 
 ### R1D51
 Continued JavaScript lesson on codecademy.
+
+### R1D52
+Still creating layouts using float for homework assignments.. This has gotten very interesting. Did a levelground-wireframe layout.
