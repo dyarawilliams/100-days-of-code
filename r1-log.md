@@ -160,3 +160,6 @@ Continued JavaScript lesson on codecademy.
 
 ### R1D52
 Still creating layouts using float for homework assignments.. This has gotten very interesting. Did a levelground-wireframe layout.
+
+### R1D53 
+Making the 5th layout using float 2 more to go for my homework assignment from my Full Stack Bootcamp.
