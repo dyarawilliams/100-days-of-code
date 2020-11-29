@@ -564,3 +564,12 @@ The 3 Loop Questions:
 
 **Link(s) to Work**: 
 1. [LevelGround-Wireframe](https://codepen.io/dyarawilliams/full/vYXEYKb)
+
+### Day 53: November 28, 2020
+
+**Today's Progress**: Making the 5th layout using float 2 more to go for my homework assignment from my Full Stack Bootcamp.
+
+**Thoughts**: I was told to vomit the code it doesn't have to be perfect, but I find myself trying to make it perfect after getting halfway there which makes my focus kinda off. I should use pomodoro during this time, but I'm so anxious and excited to get it done and over do it somedays just totally wrecking it.
+
+**Link(s) to Work**:
+1. None
