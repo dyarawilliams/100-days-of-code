@@ -163,3 +163,6 @@ Still creating layouts using float for homework assignments.. This has gotten ve
 
 ### R1D53 
 Making the 5th layout using float 2 more to go for my homework assignment from my Full Stack Bootcamp.
+
+### R1D54
+Began working on the cuisine restuarant website which is the 6th layout.
