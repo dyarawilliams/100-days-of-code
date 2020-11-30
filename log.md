@@ -572,4 +572,13 @@ The 3 Loop Questions:
 **Thoughts**: I was told to vomit the code it doesn't have to be perfect, but I find myself trying to make it perfect after getting halfway there which makes my focus kinda off. I should use pomodoro during this time, but I'm so anxious and excited to get it done and over do it somedays just totally wrecking it.
 
 **Link(s) to Work**:
+1. Source-Wireframe
+
+### Day 54: November 29, 2020
+
+**Today's Progress**: Began working on the cuisine restuarant website which is the 6th layout.
+
+**Thoughts**: This layout is not hard to do at all simple like the ones before but I know one thing I'll have trouble with is making it responsive just using floats. Also another challenge within this webpage is creating a grid with 2 rows and 4 columns also just using float. *NO FLEXBOX OR GRID HOW GREAT IS THIS *
+
+**Link(s) to Work**:
 1. None
