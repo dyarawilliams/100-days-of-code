@@ -565,7 +565,7 @@ The 3 Loop Questions:
 **Link(s) to Work**: 
 1. [LevelGround-Wireframe](https://codepen.io/dyarawilliams/full/vYXEYKb)
 
-### Day 53: November 28, 2020
+### Day 53: November 28, 2020 Saturday
 
 **Today's Progress**: Making the 5th layout using float 2 more to go for my homework assignment from my Full Stack Bootcamp.
 
@@ -574,11 +574,20 @@ The 3 Loop Questions:
 **Link(s) to Work**:
 1. Source-Wireframe
 
-### Day 54: November 29, 2020
+### Day 54: November 29, 2020 Sunday
 
 **Today's Progress**: Began working on the cuisine restuarant website which is the 6th layout.
 
 **Thoughts**: This layout is not hard to do at all simple like the ones before but I know one thing I'll have trouble with is making it responsive just using floats. Also another challenge within this webpage is creating a grid with 2 rows and 4 columns also just using float. *NO FLEXBOX OR GRID HOW GREAT IS THIS *
 
 **Link(s) to Work**:
+1. None
+
+### Day 55: November 30, 2020 Monday
+
+**Today's Progress**: Started today with CSS Diner, then continued working on the last two layouts: cuisine restuarant an salon.
+
+**Thoughts**: I just wish that I can do a whole webpage layout within a whole day .. I believe I can but too many distractions. One day I'll be able to focus and get it done. As far as the layouts the restuarant layout with the 2 rows and 4 columns was not hard at all using floats, but I know there will be a problem when trying to make it responsive.
+
+**Link(s) to Work**: 
 1. None
