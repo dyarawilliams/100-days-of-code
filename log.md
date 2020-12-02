@@ -591,3 +591,13 @@ The 3 Loop Questions:
 
 **Link(s) to Work**: 
 1. None
+
+### Day 56: December 1, 2020 Tuesday
+
+**Today's Progress**: Added a footer to the cuisine restuarant layout, then watched Traversy Media Crash Course on Javascript.
+
+**Thoughts**: I'm glad I know something about programming languages so catching on to javascript syntax is simple. There is a few things that I will have to study indept but the beginning of it is understandable. 
+
+**Link(s) to Work**:
+1. [Restuarant Layout](https://codepen.io/dyarawilliams/full/poEjzMM)
+2. [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2077s)
