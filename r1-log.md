@@ -168,4 +168,7 @@ Making the 5th layout using float 2 more to go for my homework assignment from m
 Began working on the cuisine restuarant website which is the 6th layout.
 
 ### R1D55
-Started today with CSS Diner, then continued working on the last two layouts: cuisine restuarant an salon.
+Started today with CSS Diner, then continued working on the last two layouts: cuisine restuarant and salon.
+
+### R1D56
+Added a footer to the cuisine restuarant layout, then watched Traversy Media Crash Course on Javascript.
