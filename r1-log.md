@@ -172,3 +172,6 @@ Started today with CSS Diner, then continued working on the last two layouts: cu
 
 ### R1D56
 Added a footer to the cuisine restuarant layout, then watched Traversy Media Crash Course on Javascript.
+
+### R1D57
+Stared on freeCodeCamp's Javascript Algorithms and Data Structure Certification. Completed 40% of Basic Javascript.
