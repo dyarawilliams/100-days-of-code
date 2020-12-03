@@ -601,3 +601,12 @@ The 3 Loop Questions:
 **Link(s) to Work**:
 1. [Restuarant Layout](https://codepen.io/dyarawilliams/full/poEjzMM)
 2. [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2077s)
+
+### Day 57: December 2, 2020 Wednesday
+
+**Today's Progress**: Started on freeCodeCamp's Javascript Algorithms and Data Structure Certification. Completed 40% of Basic Javascript.
+
+**Thoughts**: In today's lesson I learned a variety of things about javascript. The fact being that my first programming language was java the concept is the same just a different syntax meaning variable declarations like `var` or `let`or `const`. So far freeCode camp speaks of `var` which has a global scope. I made it to how to access mutli-dimensional arrays with indexes.
+
+**Link(s) to Work
+1. None
