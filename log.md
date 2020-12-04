@@ -608,5 +608,14 @@ The 3 Loop Questions:
 
 **Thoughts**: In today's lesson I learned a variety of things about javascript. The fact being that my first programming language was java the concept is the same just a different syntax meaning variable declarations like `var` or `let`or `const`. So far freeCode camp speaks of `var` which has a global scope. I made it to how to access mutli-dimensional arrays with indexes.
 
-**Link(s) to Work
+**Link(s) to Work**:
+1. None
+
+### Day 58: December 3, 2020 Thursday
+
+**Today's Progress**: Enjoyed class today 100Devs(introduced us to Javascript), then after class I continued with freeCodeCamp's Basic Javascript cirriculum.
+
+**Thoughts**: Although I did freeCodeCamp's lesson a day before class and previous days introducing myself to Javascript I believe spaced repetition and my study habit helped me to be able to know what the lesson in today's class was about. I understood just about everything except for the homework example that are due Tuesday. Things like `querySelector` and `innerHTML`, but I will be learning about them before the next class.
+
+**Link(s) to Work**:
 1. None
