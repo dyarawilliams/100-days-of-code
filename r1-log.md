@@ -175,3 +175,6 @@ Added a footer to the cuisine restuarant layout, then watched Traversy Media Cra
 
 ### R1D57
 Started on freeCodeCamp's Javascript Algorithms and Data Structure Certification. Completed 40% of Basic Javascript.
+
+### R1D58
+Enjoyed class today 100Devs(introduced us to Javascript), then after class I continued with freeCodeCamp's Basic Javascript cirriculum.
