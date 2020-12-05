@@ -178,3 +178,6 @@ Started on freeCodeCamp's Javascript Algorithms and Data Structure Certification
 
 ### R1D58
 Enjoyed class today 100Devs(introduced us to Javascript), then after class I continued with freeCodeCamp's Basic Javascript cirriculum.
+
+### R1D59
+Continued working on freeCodeCamp's Basic Javascript cirriculum made it to 60%.
