@@ -619,3 +619,12 @@ The 3 Loop Questions:
 
 **Link(s) to Work**:
 1. None
+
+### Day 59: December 4, 2020 Friday
+
+**Today's Progress**: Continued working on freeCodeCamp's Basic Javascript made it to 60%.
+
+**Thoughts**: There's a few things I'll have to study like `shift()` and `unshift()`. I pretty much understand how conditionals go so there isn't a problem there
+
+**Link(s) to Work**:
+1. None
