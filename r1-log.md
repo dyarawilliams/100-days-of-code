@@ -181,3 +181,6 @@ Enjoyed class today 100Devs(introduced us to Javascript), then after class I con
 
 ### R1D59
 Continued working on freeCodeCamp's Basic Javascript cirriculum made it to 60%.
+
+### R1D60
+Worked on the 100Devs homework assignments, and continued freeCodeCamp's Basic Javascript made it to 70%.
