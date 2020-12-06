@@ -628,3 +628,12 @@ The 3 Loop Questions:
 
 **Link(s) to Work**:
 1. None
+
+### Day 60: December 5, 2020 Saturday
+
+**Today's Progress**: Worked on the 100Devs homework assignments, and continued freeCodeCamp's Basic Javascript made it to 70%.
+
+**Thoughts**: Enjoyed working with conditionals many different statements that can be used such as `if` `else if` and `switch`. *This brings back memories from my college days trying to figure it out*
+
+**Link(s) to Work**:
+1. None
