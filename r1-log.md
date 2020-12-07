@@ -184,3 +184,6 @@ Continued working on freeCodeCamp's Basic Javascript cirriculum made it to 60%.
 
 ### R1D60
 Worked on the 100Devs homework assignments, and continued freeCodeCamp's Basic Javascript made it to 70%.
+
+### R1D61
+Worked on a homework assignment the salon landing page ... It is almost complete. 
