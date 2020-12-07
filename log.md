@@ -637,3 +637,12 @@ The 3 Loop Questions:
 
 **Link(s) to Work**:
 1. None
+
+### Day 61: December 6, 2020 Sunday
+
+**Today's Progress**: Worked on a homework assignment the salon landing page ... It is almost complete. 
+
+**Thoughts**: This layout isn't so bad. Working throught it has been simple but I just have to set up each section to make it look like something.
+
+**Link(s) to Work**:
+1. None
