@@ -189,4 +189,4 @@ Worked on the 100Devs homework assignments, and continued freeCodeCamp's Basic J
 Worked on a homework assignment the salon landing page ... It is almost complete. 
 
 ### R1D62
-Continued freeCodeCamp's Basic Javascript completed 1% today and got stuck on the Counting Cards challenge for an hour.
+Continued freeCodeCamp's Basic Javascript completed ~~1% today and got stuck~~ 75% on the Counting Cards challenge ~~for an hour~~.
