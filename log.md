@@ -649,9 +649,11 @@ The 3 Loop Questions:
 
 ### Day 62: December 7, 2020 Monday
 
-**Today's Progress**: Continued freeCodeCamp's Basic Javascript completed 1% today and got stuck on the Counting Cards challenge for an hour.
+**Today's Progress**: Continued freeCodeCamp's Basic Javascript completed ~~1% today and got stuck~~ 75% which would be 5% for today ~~on the Counting Cards challenge for an hour~~.
 
-**Thoughts**: I started the challenge with if and else if statements then I said I can use a switch It would be so much quicker. I got through with the switch statement then had to end up using a if statement anyways. I feel like I did the right thing and there is an error on the site because I checked the solutions afterward and I was on the right track. The only problem is that the count doesn't increment or decrement the way it is suppose to. **CAN SOMEONE HELP ME UNDERSTAND PLEASE !! **
+**Thoughts**: I started the challenge with if and else if statements then I said I can use a switch It would be so much quicker. I got through with the switch statement then had to end up using a if statement anyways. I feel like I did the right thing and there is an error on the site because I checked the solutions afterward and I was on the right track. The only problem is that the count doesn't increment or decrement the way it is suppose to. ~~**CAN SOMEONE HELP ME UNDERSTAND PLEASE!!~~
+
+Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum. Taking it at a steady pace because I will have to come back to this to make sure I have a solid understanding.
 
 **Link(s) to Work**: 
 1. [Counting Cards](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/counting-cards)
