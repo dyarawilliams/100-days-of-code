@@ -657,3 +657,12 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 
 **Link(s) to Work**: 
 1. [Counting Cards](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/counting-cards)
+
+### Day 63: December 8, 2020 Tuesday
+
+**Today's Progress**: Completed 80% of Basic Javascript on freeCodeCamp, attended class #100Devs which is a 30 week Full Stack Web Development Bootcamp *Currently on Class #10*. 
+
+**Thoughts**: I'm so overwhelmed learning something new everyday about Javascript. It is not as hard as I thought it would be. Creating a function is simple but it's the objects for me. :sweat_smile:
+
+**Link(s) to Work**:
+1. None
