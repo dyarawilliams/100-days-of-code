@@ -190,3 +190,6 @@ Worked on a homework assignment the salon landing page ... It is almost complete
 
 ### R1D62
 Continued freeCodeCamp's Basic Javascript completed ~~1% today and got stuck~~ 75% on the Counting Cards challenge ~~for an hour~~.
+
+### R1D63
+Completed 80% of Basic Javascript on freeCodeCamp, attended class #100Devs which is a 30 week Full Stack Web Development Bootcamp *Currently on Class #10*. 
