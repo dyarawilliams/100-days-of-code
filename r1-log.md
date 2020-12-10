@@ -193,3 +193,6 @@ Continued freeCodeCamp's Basic Javascript completed ~~1% today and got stuck~~ 7
 
 ### R1D63
 Completed 80% of Basic Javascript on freeCodeCamp, attended class #100Devs which is a 30 week Full Stack Web Development Bootcamp *Currently on Class #10*. 
+
+### R1D64
+Created a temperature converter using #html #css and #javascript
