@@ -666,3 +666,12 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 
 **Link(s) to Work**:
 1. None
+
+### Day 64: December 9, 2020 Wednesday
+
+**Today's Progress**: Created a temperature converter using #html #css and #javascript
+
+**Thoughts**: This assignment was fun to do. We had to do this for our coding challenge .. and of course I needed an image to make it look more fun. I wish for the input to change on both temperatures once a number is entered but for now I will calculate them separately.
+
+**Link(s) to Work**:
+1. [Temperature Converter](https://codepen.io/dyarawilliams/full/PoGGyEY)
