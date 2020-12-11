@@ -196,3 +196,6 @@ Completed 80% of Basic Javascript on freeCodeCamp, attended class #100Devs which
 
 ### R1D64
 Created a temperature converter using #html #css and #javascript
+
+### R1D65
+Attended the 30 week Full Stack WebDev bootcamp which was 3 hours we reviewed variables and conditionals.
