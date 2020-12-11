@@ -675,3 +675,12 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 
 **Link(s) to Work**:
 1. [Temperature Converter](https://codepen.io/dyarawilliams/full/PoGGyEY)
+
+### Day 65: December 10, 2020 Thursday
+
+**Today's Progress**: Attended the 30 week Full Stack WebDev bootcamp which was 3 hours we reviewed variables and conditionals, and last we covered functions in javascript.
+
+**Thoughts**: This bootcamp last 3 hours every Tuesday and thursday from 6:30pm EST to 9:30pm EST. I enjoy this community of people who actually want to learn they are so helpful. As we are introduced to the basics of javascript we also get to play with DOM such as `querySelector()` which I believe is a method. 
+
+**Link(s) to Work**:
+1. [Full Stack WebDev Bootcamp - Class 11](https://www.twitch.tv/videos/832893152)
