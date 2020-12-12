@@ -684,3 +684,12 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 
 **Link(s) to Work**:
 1. [Full Stack WebDev Bootcamp - Class 11](https://www.twitch.tv/videos/832893152)
+
+### Day 66: Decemember 11, 2020 Friday
+
+**Today's Progress**: Completed 87% of Basic Javascript on freeCodeCamp site. Also installed git, and played around with arrays and objects in javascript.
+
+**Thoughts**: Had some trouble with nested objects but it will get better. The main thing that gave me trouble was the Record Collection challenge on freeCodeCamp. It makes you think easy but challenging. You have to pay close attention to how things are worded
+
+**Link(s) to Work**:
+1. None
