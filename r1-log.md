@@ -202,3 +202,6 @@ Attended the 30 week Full Stack WebDev bootcamp which was 3 hours we reviewed va
 
 ### R1D66
 Completed 87% of Basic Javascript on freeCodeCamp site. Also installed git, and played around with arrays and objects had some trouble but it will get better.
+
+### R1D67
+Studied Arrow functions in javascript which was a homework assignment from 100Devs bootcamp, made a few arrow functions to understand how they work.
