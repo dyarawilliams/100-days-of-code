@@ -693,3 +693,12 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 
 **Link(s) to Work**:
 1. None
+
+### Day 67: December 12, 2020 Saturday
+
+**Today's Progress**: Studied Arrow functions in javascript which was a homework assignment from 100Devs Bootcamp, made a few arrow functions to understand how they work.
+
+**Thought**: This way of creating functions is so quick. In the beginning I was kind of confused because I was wondering where the name of the function goes and how I would call it. You assign a variable to an arrow function with its arguments and use to the `fat arrow =>` to evaluate the expression and return its results. If you have one argument the parentheses doesn't need to be included, but if there are no arguments just use an empty `()`. I have to get use to the structure of an arrow function.
+
+**Links to Work**:
+1. [Arrow functions, the basics](https://javascript.info/arrow-functions-basics)
