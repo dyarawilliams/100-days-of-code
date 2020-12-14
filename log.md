@@ -700,5 +700,15 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 
 **Thought**: This way of creating functions is so quick. In the beginning I was kind of confused because I was wondering where the name of the function goes and how I would call it. You assign a variable to an arrow function with its arguments and use to the `fat arrow =>` to evaluate the expression and return its results. If you have one argument the parentheses doesn't need to be included, but if there are no arguments just use an empty `()`. I have to get use to the structure of an arrow function.
 
-**Links to Work**:
+**Link(s) to Work**:
 1. [Arrow functions, the basics](https://javascript.info/arrow-functions-basics)
+
+### Day 68: December 13, 2020 Sunday
+
+**Today's Progress**: Studying for loops in #javascript.
+
+**Thoughts**:  Having trouble understanding how nested for loops work. I remember doing java and learning it in college but it's just not sticking right now.
+
+**Link(s) to Work**: 
+1. [Loops: while and for](https://javascript.info/while-for)
+
