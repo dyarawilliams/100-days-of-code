@@ -205,3 +205,6 @@ Completed 87% of Basic Javascript on freeCodeCamp site. Also installed git, and 
 
 ### R1D67
 Studied Arrow functions in javascript which was a homework assignment from 100Devs bootcamp, made a few arrow functions to understand how they work.
+
+### R1D68
+Studying for loops in javascript .. Having trouble understanding how nested for loops work. I remember doing java and learning it in college but it's just not sticking right now.
