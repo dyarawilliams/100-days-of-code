@@ -712,3 +712,11 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 **Link(s) to Work**: 
 1. [Loops: while and for](https://javascript.info/while-for)
 
+### Day 69: December 14, 2020 Monday
+
+**Today's Progress**: Made it to 90% on Basic Javascript freeCodeCamp Javascript Algorithms & Data Structures. 
+
+**Thoughts**: Taking it slow so i can absorb the important things. Using nested for loops can be confusing, so I'm using `console.log()` on the outer for loop and inner one to understand what is taken place inside each code block. *This way makes it so much easier to comprehend*
+
+**Link(s) to Work**:
+1. None
