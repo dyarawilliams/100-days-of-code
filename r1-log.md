@@ -208,3 +208,6 @@ Studied Arrow functions in javascript which was a homework assignment from 100De
 
 ### R1D68
 Studying for loops in javascript .. Having trouble understanding how nested for loops work. I remember doing java and learning it in college but it's just not sticking right now.
+
+### R1D69
+Made it to 90% on Basic Javascript freeCodeCamp Javascript Algorithms & Data Structures. Taking it slow so i can absorb the important things.
