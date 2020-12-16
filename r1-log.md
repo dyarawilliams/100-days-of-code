@@ -213,4 +213,4 @@ Studying for loops in javascript .. Having trouble understanding how nested for 
 Made it to 90% on Basic Javascript freeCodeCamp Javascript Algorithms & Data Structures. Taking it slow so i can absorb the important things.
 
 ### R1D70 
-Completed 91% of Basic Javascript on freeCodeCamp, and honestly I completed 1% today because I didnt remeber how recursion works so I had to read up on that.
+Completed 91% of Basic Javascript on freeCodeCamp, and honestly I completed 1% today because I did not remember how recursion works so I had to read on that.
