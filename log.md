@@ -720,3 +720,13 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 
 **Link(s) to Work**:
 1. None
+
+### Day 70: December 15, 2020 Tuesday
+
+**Today's Progress**: Completed 91% of Basic Javascript on freeCodeCamp, and honestly I completed 1% today because I did not remember how recursion works so I had to read on that.
+
+**Thoughts**: During my undergrad years I recall doing recursion using java but I just can't seem to remember the steps used to implement such a function. Hopefully as I use spaced repetition it will stick to my brain this time.
+
+**Link(s) to Work**:
+1. [Replace Loops using RecursionPassed](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replace-loops-using-recursion)
+2. [Recursion and stack](https://javascript.info/recursion)
