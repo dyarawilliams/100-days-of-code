@@ -730,3 +730,21 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 **Link(s) to Work**:
 1. [Replace Loops using RecursionPassed](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replace-loops-using-recursion)
 2. [Recursion and stack](https://javascript.info/recursion)
+
+### Day 71: December 16, 2020 Wednesday
+
+**Today's Progress**: Continued working on Basic Javascript on freeCodeCamp.
+
+**Thoughts**: The Profile Lookup was a challenge within the lessons I completed today. I remembered how to access objects using bracket notation and how to use a for loop.
+
+**Link(s) to Work**:
+1. None
+
+### Day 72: December 17, 2020 Wednesday
+
+**Today's Progress**: Completed 100% of Basic Javascript on freeCodeCamp, and began working on the 100Devs coding challenge
+
+**Thoughts**: Finally I know the purpose of `parseInt()`. In javascript I can create a binary converter using this method and I'm so excited. During my college days I created a base converted using java and let me tell you this it was not easy. Another thing recursion is recursion I have to understand it and not just bypass it.
+
+**Link(s) to Work**:
+1. None
