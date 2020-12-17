@@ -214,3 +214,6 @@ Made it to 90% on Basic Javascript freeCodeCamp Javascript Algorithms & Data Str
 
 ### R1D70 
 Completed 91% of Basic Javascript on freeCodeCamp, and honestly I completed 1% today because I did not remember how recursion works so I had to read on that.
+
+### R1D71
+Continued working on Basic Javascript on freeCodeCamp.
