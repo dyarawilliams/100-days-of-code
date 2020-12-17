@@ -217,3 +217,6 @@ Completed 91% of Basic Javascript on freeCodeCamp, and honestly I completed 1% t
 
 ### R1D71
 Continued working on Basic Javascript on freeCodeCamp.
+
+### R1D72
+Completed 100% of Basic Javascript on freeCodeCamp, and began working on the coding challenge for the 100Devs Bootcamp I'm in.
