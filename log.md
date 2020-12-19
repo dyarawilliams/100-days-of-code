@@ -748,3 +748,12 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 
 **Link(s) to Work**:
 1. None
+
+### Day 73: December 18, 2020 Thursday
+
+**Today's Progress**: Began [Javascript Algorithms and Data Structures: ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/) completed 26%.
+
+**Thoughts**: In today's lesson I acutally understood the difference between using `var`, `let`, and `const`. I never knew that you could mutate using a `const` but it is possible while using an array such as: `const arr = [1, 2, 3]`. You could mutate this array by assigning the index of that constant another value like ` arr[1] = 7 `. This would change the array list to `[1, 7, 3]` .
+
+**Link(s) to Work**: 
+1. None
