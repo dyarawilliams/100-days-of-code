@@ -220,3 +220,6 @@ Continued working on Basic Javascript on freeCodeCamp.
 
 ### R1D72
 Completed 100% of Basic Javascript on freeCodeCamp, and began working on the coding challenge for the 100Devs Bootcamp I'm in.
+
+### R1D73
+Began [Javascript Algorithms and Data Structures: ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/) completed 26%.
