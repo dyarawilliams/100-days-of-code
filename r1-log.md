@@ -223,3 +223,6 @@ Completed 100% of Basic Javascript on freeCodeCamp, and began working on the cod
 
 ### R1D73
 Began [Javascript Algorithms and Data Structures: ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/) completed 26%.
+
+### R1D74
+Worked on freeCodeCamp JavaScript ES6 made it to 52% ... spent sometime on Destructing it was very challenging especially the last one. But I got through it.
