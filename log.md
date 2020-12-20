@@ -740,7 +740,7 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 **Link(s) to Work**:
 1. None
 
-### Day 72: December 17, 2020 Wednesday
+### Day 72: December 17, 2020 Thursday
 
 **Today's Progress**: Completed 100% of Basic Javascript on freeCodeCamp, and began working on the 100Devs coding challenge
 
@@ -749,11 +749,25 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 **Link(s) to Work**:
 1. None
 
-### Day 73: December 18, 2020 Thursday
+### Day 73: December 18, 2020 Friday
 
 **Today's Progress**: Began [Javascript Algorithms and Data Structures: ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/) completed 26%.
 
 **Thoughts**: In today's lesson I acutally understood the difference between using `var`, `let`, and `const`. I never knew that you could mutate using a `const` but it is possible while using an array such as: `const arr = [1, 2, 3]`. You could mutate this array by assigning the index of that constant another value like ` arr[1] = 7 `. This would change the array list to `[1, 7, 3]` .
 
 **Link(s) to Work**: 
+1. None
+
+### Day 74: December 19, 2020 Saturday
+
+**Today's Progress**: Worked on freeCodeCamp JavaScript ES6 made it to 52% .
+
+**Thoughts**: Spent sometime on Destructing it was very challenging especially the last one. But I got through it. The lessons I completed were such: 
+- Use Rest Parameter w/ Function Parameter
+- Use Spread operator to Evaluate array in place
+- Use Destructing Assignment to Assign Variables from: objects, nested objects, and arrays.
+- Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements
+- and Use Destructuring Assignment to Pass an Object as a Function's Parameters *this one was kinda tricky because it kept saying test was complete but destructured parameters should be used*
+
+**Links**:
 1. None
