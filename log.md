@@ -771,3 +771,12 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 
 **Links**:
 1. None
+
+### Day 75: December 20, 2020 Sunday
+
+**Today's Progess**: Completed 65% of ES6 on freeCodeCamp ... This was interesting because I revisited template literals again.
+
+**Thoughts**: I remember seeing template literals on codecademy javascript course so to see it again made me excited. 
+
+**Link(s) to Work**:
+1. None
