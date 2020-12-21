@@ -226,3 +226,6 @@ Began [Javascript Algorithms and Data Structures: ES6](https://www.freecodecamp.
 
 ### R1D74
 Worked on freeCodeCamp JavaScript ES6 made it to 52% ... spent sometime on Destructing it was very challenging especially the last one. But I got through it.
+
+### R1D75 
+Completed 65% of ES6 on freeCodeCamp ... This was interesting because I revisited template literals again.
