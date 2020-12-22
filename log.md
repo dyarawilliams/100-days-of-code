@@ -780,3 +780,12 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 
 **Link(s) to Work**:
 1. None
+
+### Day 76: December 21, 2020 Monday
+
+**Today's Progress**: After a day of trying to figure out how typed.js library works I finally got it.
+
+**Thoughts**: Can you say excited? Thank you Matt :smile: Typed.js is a library that animates typing. You can enter any string and watch it type at the speed you set. Now time to create this portfolio. Wanted to learn something cool to go on it and I found just the thing. 
+
+**Link(s) to Work**:
+1. [Typing Text Animation](https://codepen.io/dyarawilliams/full/PoGKLrV)
