@@ -229,3 +229,6 @@ Worked on freeCodeCamp JavaScript ES6 made it to 52% ... spent sometime on Destr
 
 ### R1D75 
 Completed 65% of ES6 on freeCodeCamp ... This was interesting because I revisited template literals again.
+
+### R1D76
+After a day of trying to figure out how typed.js library works I finally got it ... Can you say excited? Now time to create this portfolio.
