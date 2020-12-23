@@ -789,3 +789,13 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 
 **Link(s) to Work**:
 1. [Typing Text Animation](https://codepen.io/dyarawilliams/full/PoGKLrV)
+
+### Day 77: December 22, 2020 Tuesday
+
+**Today's Progress**: Completed 87% (27/31) of ES6 on freeCodeCamp .. Learned about getters and setters and how to reuse js code using import and export from a file.
+
+**Thoughts**: Today was a relaxing day. When I saw that I would be doing getters and setters for the first lesson I got excited because I remember doing so in my Data Stuctures course in college. Although I didnt remember exactly how it was implemented I knew what both of those meant. Yesterday I came across something that said import and was automatically aware of the lesson on import. I wasn't sure how export would work.
+
+**Link(s) to Work**:
+1. [Use getters and setters to Control Access to an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object)
+2. [Reuse JavaScript Code Using import](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/reuse-javascript-code-using-import)
