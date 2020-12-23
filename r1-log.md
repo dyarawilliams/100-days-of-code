@@ -232,3 +232,6 @@ Completed 65% of ES6 on freeCodeCamp ... This was interesting because I revisite
 
 ### R1D76
 After a day of trying to figure out how typed.js library works I finally got it ... Can you say excited? Now time to create this portfolio.
+
+### R1D77
+Completed 87% of ES6 on freeCodeCamp .. Learned about getters and setters and how to reuse js code by import and export from a file.
