@@ -799,3 +799,12 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 **Link(s) to Work**:
 1. [Use getters and setters to Control Access to an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object)
 2. [Reuse JavaScript Code Using import](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/reuse-javascript-code-using-import)
+
+### Day 78: December 23, 2020 Wednesday
+
+**Today's Progress**: Worked on my javascript coding challenge #3 for 100Devs.
+
+**Thoughts**: This was interesting had an error with putting the button inside the form and had to move it outside of the form in order for the webpage to show the results.
+
+**Link(s) to Work**: 
+1. [Challenge 3](https://codepen.io/dyarawilliams/full/yLazgaw)
