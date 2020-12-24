@@ -235,3 +235,6 @@ After a day of trying to figure out how typed.js library works I finally got it 
 
 ### R1D77
 Completed 87% of ES6 on freeCodeCamp .. Learned about getters and setters and how to reuse js code by import and export from a file.
+
+### R1D78
+Worked on my javascript coding challenge #3 this was interesting had a error with putting the button inside the form and had to move it outside of the form.
