@@ -808,3 +808,12 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 
 **Link(s) to Work**: 
 1. [Challenge 3](https://codepen.io/dyarawilliams/full/yLazgaw)
+
+### Day 79: December 24, 2020 Thursday
+
+**Today's Progress**: Completed 100% of ES6 on freeCodeCamp.
+
+**Thoughts**: This was an interesting journey and there will be days where I go back and use spaced repetition to understand those lessons. Today I learned about javascript promises - you use it to make a promise to do something. 
+
+**Link(s) to Work**:
+1. None
