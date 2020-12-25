@@ -238,3 +238,6 @@ Completed 87% of ES6 on freeCodeCamp .. Learned about getters and setters and ho
 
 ### R1D78
 Worked on my javascript coding challenge #3 this was interesting had a error with putting the button inside the form and had to move it outside of the form.
+
+### R1D79
+Completed 100% of ES6 on freeCodeCamp this was an interesting journey and there will be days where I go back and use spaced repetition to understand those lessons.
