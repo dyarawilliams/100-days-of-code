@@ -817,3 +817,12 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 
 **Link(s) to Work**:
 1. None
+
+### Day 80: December 25, 2020 Friday
+
+**Today's Progress**: Read about functions in javascript .. This cool website called Eloquent Javascript has detailed information about the language.
+
+**Thoughts**: This chapter tells you how to write a function, also talks about arrow function *something new in javascript I think*. The key to understanding function is to know the scopes of them. Parameters and bindings declared in a given scope are local and not visible from the outside of the scope. functions can help organize a program by grouping code into pieces that do specific things. This will be my third time in life working with recursion this should be the charm but practice makes perfect. 
+
+**Link(s) to Work**:
+1. [Functions Eloquent Javascript](https://eloquentjavascript.net/03_functions.html)
