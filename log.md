@@ -826,3 +826,12 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 
 **Link(s) to Work**:
 1. [Functions Eloquent Javascript](https://eloquentjavascript.net/03_functions.html)
+
+### Day 81: December 24, 2020 Saturday
+
+**Today's Progress**: Planned out and drew a wireframe for my portfolio.
+
+**Thoughts**: In order for me to get started on a task I have to draw it out. Things turn out more better when I do it this way.
+
+**Link(s) to Work**:
+1. None
