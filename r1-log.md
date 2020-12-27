@@ -244,3 +244,6 @@ Completed 100% of ES6 on freeCodeCamp this was an interesting journey and there 
 
 ### R1D80
 Read about functions in javascript .. This cool website called Eloquent Javascript has detailed information about the language.
+
+### R1D81
+Planned and drew a wireframe for my portfolio. 
