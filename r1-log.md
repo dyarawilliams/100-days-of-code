@@ -247,3 +247,6 @@ Read about functions in javascript .. This cool website called Eloquent Javascri
 
 ### R1D81
 Planned and drew a wireframe for my portfolio. 
+
+### R1D82
+Had fun implementing my portfolio.. I think I'm satisfied now... But there is a few things I'd like to change on it so tomorrow will be interesting. 
