@@ -835,3 +835,12 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 
 **Link(s) to Work**:
 1. None
+
+### Day 82: December 27, 2020 Sunday
+
+**Today's Progress**: Had fun implementing my portfolio.
+
+**Thoughts**: I think I'm satisfied now... But there is a few things I'd like to change on it so tomorrow will be interesting.
+
+**Link(s) to Work**:
+1. None
