@@ -250,3 +250,6 @@ Planned and drew a wireframe for my portfolio.
 
 ### R1D82
 Had fun implementing my portfolio.. I think I'm satisfied now... But there is a few things I'd like to change on it so tomorrow will be interesting. 
+
+### R1D83
+Started on the Regular Expression section of freeCodeCamp completed 30% (10/33). So far I'm loving RegEx maybe because the beginning of using it is so simple. The symbols are so easy to remember.
