@@ -844,3 +844,16 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 
 **Link(s) to Work**:
 1. None
+
+### Day 83: December 28, 2020 Monday
+
+**Today's Progress**: Started on the Regular Expression section of freeCodeCamp completed 30% (10/33).
+
+**Thoughts**:  So far I'm loving RegEx maybe because the beginning of using it is so simple. The symbols are so easy to remember. I covered these lessons in today's session so far:
+- Literal patterns `/search/`
+- Wildcard character `.`
+- Character classes `[ ] `
+- Hyphen character `[a-e]`
+
+**Link(s) to Work**:
+1. None
