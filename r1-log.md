@@ -253,3 +253,6 @@ Had fun implementing my portfolio.. I think I'm satisfied now... But there is a 
 
 ### R1D83
 Started on the Regular Expression section of freeCodeCamp completed 30% (10/33). So far I'm loving RegEx maybe because the beginning of using it is so simple. The symbols are so easy to remember.
+
+### R1D84
+Started working on my horoscope project. Also continued the RegEx section freeCodeCamp completed 64%(21/33). 
