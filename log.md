@@ -857,3 +857,25 @@ Okay so I figured it how .. Currently at 75% on the Basic Javascript curriculum.
 
 **Link(s) to Work**:
 1. None
+
+### Day 84: December 29, 2020 Tuesday
+
+**Today's Progress**: Started working on my horoscope project. Also continued the RegEx section freeCodeCamp completed 64% (21/33).
+
+**Thoughts**: Putting together the pieces for the horoscope app is interesting because there are many ways that you can implement this type of app when it comes to inputing the data into the actual browser. 
+
+The RegEx lesson consisted of:
+- Negated Character `^`
+- Character that occurs 1 or more times `+`
+- Character that occurs zero or more times `*`
+- Greedy/Lazy Match
+- Match Beginning String Patterns `^`
+- Match Ending String Patterns `$`
+- Match All Letters and Numbers `\w`
+- Match Everything BUT Letters and Numbers `\W`
+- Match ALl Number `/d`
+- Match All Non-Numbers `/D`
+
+
+**Link(s) to Work**:
+1. [Horoscope App](https://codepen.io/dyarawilliams/pen/OJRzGEB)
