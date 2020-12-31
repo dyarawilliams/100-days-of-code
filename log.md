@@ -876,6 +876,14 @@ The RegEx lesson consisted of:
 - Match ALl Number `/d`
 - Match All Non-Numbers `/D`
 
+**Link(s) to Work**:
+1. [Horoscope App](https://codepen.io/dyarawilliams/full/OJRzGEB)
+
+### Day 85: December 30, 2020 Wednesday
+
+**Today's Progress**: Worked on my Horoscope app today completed all the main parts just have to fix a few bugs in it. Still learning how to use Javascript DOM.
+
+**Thoughts**: Well today was excellent accomplished alot and ran into a few errors that I figured out after taking a break to clear my mind. This js application has a few errors that need to be worked on but I think I met my breaking point for today.
 
 **Link(s) to Work**:
-1. [Horoscope App](https://codepen.io/dyarawilliams/pen/OJRzGEB)
+1. [Horoscope App](https://codepen.io/dyarawilliams/full/OJRzGEB)
