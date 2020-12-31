@@ -256,3 +256,6 @@ Started on the Regular Expression section of freeCodeCamp completed 30% (10/33).
 
 ### R1D84
 Started working on my horoscope project. Also continued the RegEx section freeCodeCamp completed 64%(21/33). 
+
+### R1D85
+Worked on my Horoscope app today completed all the main parts just have to fix a few bugs in it. Still learning how to use Javascript DOM.
