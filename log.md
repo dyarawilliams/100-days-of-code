@@ -892,7 +892,7 @@ The RegEx lesson consisted of:
 
 **Today's Progress**: Worked on my horoscope app .. added a clear button to reset the form and data underneath. Also, read Eloquent Javascript Chapter 5: Higher-Order Functions very interesting. 
 
-**Thoughts**: It was fun figuring out how to acutally make a clear button do exactly what you need it to do. Before I finished last night I said I wanted to create a clear button did some research on it and got it done. For the chapter I read about Abstraction * I sort of remembered it from learning java in college but it has been so long since I acutually used it. Didn't get to do the exercises will do those at a later date.
+**Thoughts**: It was fun figuring out how to acutally make a clear button do exactly what you need it to do. Before I finished last night I said I wanted to create a clear button did some research on it and got it done. For the chapter I read about Abstraction * I sort of remembered it from learning java in college but it has been so long since I acutually used it*. Didn't get to do the exercises will do those at a later date.
 
 **Link(s) to Work**:
 1. [Horoscope App](https://codepen.io/dyarawilliams/full/OJRzGEB)
