@@ -259,3 +259,6 @@ Started working on my horoscope project. Also continued the RegEx section freeCo
 
 ### R1D85
 Worked on my Horoscope app today completed all the main parts just have to fix a few bugs in it. Still learning how to use Javascript DOM.
+
+### R1D86
+Worked on my horoscope app .. added a clear button to reset the form and data underneath. Also, read Eloquent Javascript Chapter 5: Higher-Order Functions very interesting. 
