@@ -897,3 +897,30 @@ The RegEx lesson consisted of:
 **Link(s) to Work**:
 1. [Horoscope App](https://codepen.io/dyarawilliams/full/OJRzGEB)
 2. [Higher-Order Functions:Eloquent Javascript](https://eloquentjavascript.net/05_higher_order.html )
+
+### Day 87: January 1, 2020 Friday
+
+**Today's Progress**: Read Eloquent Javascript Chapter 4 - Data Structures: Objects and Arrays
+
+**Thoughts**: This chapter focuses on basic data structures. An array stores sequences of values. Objects are arbitrary collections of properties. Unlike numbers, strings, and booleans which are immutable, objects can be changed which makes them mutable. With objects, there is a difference between having two references to the same object and having two different objects that contain the same properties. In this chapter they go deeper into data structures and I'm just grasping it.
+
+**Link(s) to Work**:
+1. [Data Structures Objects and Arrays](https://eloquentjavascript.net/04_data.html)
+
+### Day 88: January 2, 2020 Saturday
+
+**Today's Progress**: Read Eloquent Javascript Chapter 5 - High-order Functions
+
+**Thoughts**: Previously read through this chapter and there was a few things I wanted to read back over such as Filtering Arrays, Transforming with Map, and Composability. 
+
+**Link(s) to Work**:
+1. [High-order Functions](https://eloquentjavascript.net/05_higher_order.html)
+
+### Day 89: January 3, 2020 Saturday
+
+**Today's Progress**: Read Eloquent Javascript Chapter 6 - The Secret Life of Objects
+
+**Thoughts**: This chapter discussed Encapsulation, Prototypes, Classes, a great explanation of Maps, Polymorphism, and Inheritance. I will be revisiting this chapter in the future.
+
+**Link(s) to Work**:
+1. [The Secret Life of Objects](https://eloquentjavascript.net/06_object.html)
