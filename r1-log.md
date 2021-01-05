@@ -262,3 +262,12 @@ Worked on my Horoscope app today completed all the main parts just have to fix a
 
 ### R1D86
 Worked on my horoscope app .. added a clear button to reset the form and data underneath. Also, read Eloquent Javascript Chapter 5: Higher-Order Functions very interesting. 
+
+### R1D87
+Read Eloquent Javascript Chapter 4 - Data Structures: Objects and Arrays
+
+### R1D88
+Read Eloquent Javascript Chapter 5 - High-order Functions
+
+### R1D89 
+Read Eloquent Javascript Chapter 6 - The Secret Life of Objects
