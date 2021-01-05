@@ -916,7 +916,7 @@ The RegEx lesson consisted of:
 **Link(s) to Work**:
 1. [High-order Functions](https://eloquentjavascript.net/05_higher_order.html)
 
-### Day 89: January 3, 2020 Saturday
+### Day 89: January 3, 2020 Sunday
 
 **Today's Progress**: Read Eloquent Javascript Chapter 6 - The Secret Life of Objects
 
@@ -924,3 +924,12 @@ The RegEx lesson consisted of:
 
 **Link(s) to Work**:
 1. [The Secret Life of Objects](https://eloquentjavascript.net/06_object.html)
+
+### Day 90: January 4, 2020 Monday
+
+**Today's Progress**: Been away from freeCodeCamp for a few days so I decided to watch their video on Regular Expression.
+
+**Thoughts**: Just reminding myself of what I've been learning recently on freeCodeCamp so I can recall for the next lessons I have to do when I come back tomorrow.
+
+**Link(s) to Work**:
+1. [Learn Regular Expressions (Regex) - Crash Course for Beginners](https://www.youtube.com/watch?v=ZfQFUJhPqMM)
