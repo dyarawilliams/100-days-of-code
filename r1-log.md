@@ -274,3 +274,6 @@ Read Eloquent Javascript Chapter 6 - The Secret Life of Objects
 
 ### R1D90
 Been away from freeCodeCamp for a few days so I decided to watch their video on [Regular Expression](https://www.youtube.com/watch?v=ZfQFUJhPqMM)
+
+### R1D91
+Completed 100% of freeCodeCamp Regular Expressions (RegEx) section.
