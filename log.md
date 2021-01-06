@@ -933,3 +933,12 @@ The RegEx lesson consisted of:
 
 **Link(s) to Work**:
 1. [Learn Regular Expressions (Regex) - Crash Course for Beginners](https://www.youtube.com/watch?v=ZfQFUJhPqMM)
+
+### Day 91: January 5, 2020 Tuesday
+
+**Today's Progress**: Completed 100% of freeCode Camp Regular Expressions (RegEx) section.
+
+**Thoughts**: This was very interesting section because I learned someting new during this time. Even though it did get a little difficult the previous sections were there to help. The problem I had was with the restrict possible username. I had to watch the videoo to understand what was going on.
+
+**Link(s) to Work**:
+1. None
