@@ -942,3 +942,12 @@ The RegEx lesson consisted of:
 
 **Link(s) to Work**:
 1. None
+
+### Day 92: January 6, 2020 Wednesday
+
+**Today's Progress**: Started on creating a Simple Calculator with HTML, CSS, and Javascript.
+
+**Thoughts**: So far I have the html elements in place. Wish I could have completed more but hopefully tomorrow I will get alot done.
+
+**Link(s) to Work**:
+1. None
