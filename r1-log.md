@@ -277,3 +277,6 @@ Been away from freeCodeCamp for a few days so I decided to watch their video on 
 
 ### R1D91
 Completed 100% of freeCodeCamp Regular Expressions (RegEx) section.
+
+### R1D92
+Started on creating a Simple Calculator with HTML, CSS, and Javascript.
