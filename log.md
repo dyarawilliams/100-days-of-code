@@ -951,3 +951,12 @@ The RegEx lesson consisted of:
 
 **Link(s) to Work**:
 1. None
+
+### Day 93: January 7, 2020 Thursday
+
+**Today's Progress**: Worked on my Simple Calculator & attended class 100Devs.
+
+**Thoughts**: In class we reviewed Javascript Basics. So far with the Simple Calculator using Javascript I added styling to it now to figure out how to implement the javascript of it. This has been on my mind all day such as how I would implement button clicks using an object or create a event listener for each button.
+
+**Link(s) to Work**: 
+1. [Simple Calculator](https://codepen.io/dyarawilliams/full/BaLVeKJ)
