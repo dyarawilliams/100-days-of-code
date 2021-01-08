@@ -280,3 +280,6 @@ Completed 100% of freeCodeCamp Regular Expressions (RegEx) section.
 
 ### R1D92
 Started on creating a Simple Calculator with HTML, CSS, and Javascript.
+
+### R1D93
+Worked on my Simple Calculator & attended class 100Devs
