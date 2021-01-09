@@ -960,3 +960,12 @@ The RegEx lesson consisted of:
 
 **Link(s) to Work**: 
 1. [Simple Calculator](https://codepen.io/dyarawilliams/full/BaLVeKJ)
+
+### Day 94: January 8, 2020 Friday
+
+**Today's Progress**: Worked on khanacademy today. Successfully made through the JS Objects section.
+
+**Thoughts**: In order for me to grasp the concept of an object, I HAVE TO practice and make sure I understand what is going on. #javascript #js
+
+**Link(s) to Work**:
+1. None
