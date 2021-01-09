@@ -283,3 +283,6 @@ Started on creating a Simple Calculator with HTML, CSS, and Javascript.
 
 ### R1D93
 Worked on my Simple Calculator & attended class 100Devs
+
+### R1D94
+Worked on khanacademy today. Successfully made through JS Objects section. 
