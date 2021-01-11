@@ -969,3 +969,12 @@ The RegEx lesson consisted of:
 
 **Link(s) to Work**:
 1. None
+
+### Day 95: January 9, 2020 Saturday
+
+**Today's Progress**: Continued working on khanacademy Intro to JS: Objects began the Project - Bookshelf.
+
+**Thoughts**: In this project you are asked to make an array of books atleast two of them and use a loop to display a row of those books on a shelf. There are three bonuses that you can do to test your ability of implementing objects. One book was already implemented on the shelf so I decided to add two more books and an author property. I have the title and author displayed but can't seem to get the image of the amount of stars the books are to be shown on each book. What am I missing?
+
+**Link(s) to Work**:
+1. 
