@@ -286,3 +286,6 @@ Worked on my Simple Calculator & attended class 100Devs
 
 ### R1D94
 Worked on khanacademy today. Successfully made through JS Objects section. 
+
+### R1D95
+Continued working on khanacademy JS Objects began the Project: Bookshelf.
