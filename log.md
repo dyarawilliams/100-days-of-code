@@ -977,4 +977,13 @@ The RegEx lesson consisted of:
 **Thoughts**: In this project you are asked to make an array of books atleast two of them and use a loop to display a row of those books on a shelf. There are three bonuses that you can do to test your ability of implementing objects. One book was already implemented on the shelf so I decided to add two more books and an author property. I have the title and author displayed but can't seem to get the image of the amount of stars the books are to be shown on each book. What am I missing?
 
 **Link(s) to Work**:
-1. 
+1. None
+
+### Day 96: January 10, 2020 Sunday
+
+**Today's Progress**: Sat here for an hour trying to figure out how to display the stars for every book the Bookshelf project on khanacademy couldn't come up with a solution I'll try again tomorrow.
+
+**Thoughts**: I was thinking that I needed another for loop but I tried to do a nested loop and I still didn't get any results maybe I'm overthinking this and it is something so simple. After a few tutorials maybe I'll come up with a solution.
+
+**Link(s) to Work**:
+1. [Bookshelf Project](https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5062925826342912)
