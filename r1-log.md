@@ -289,3 +289,6 @@ Worked on khanacademy today. Successfully made through JS Objects section.
 
 ### R1D95
 Continued working on khanacademy JS Objects began the Project: Bookshelf.
+
+### R1D96
+Sat here for an hour trying to figure out how to display the stars for every book the Bookshelf project on khanacademy couldn't come up with a solution I'll try again tomorrow.
