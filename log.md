@@ -987,3 +987,12 @@ The RegEx lesson consisted of:
 
 **Link(s) to Work**:
 1. [Bookshelf Project](https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5062925826342912)
+
+### Day 97: January 11, 2020 Monday
+
+**Today's Progress**: Figured out how to make the number of stars given for each book to display on their own book cover ... I'm so excited.
+
+**Thoughts**: This was so simple and I made it so hard. All I had to do was implement a better x position for the stars because each book rating was on top of each other. I did this by adding the counter to the x position and multiply the first loop counter to the x position.
+
+**Link(s) to Work**:
+1. [Bookshelf Project](https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5062925826342912)
