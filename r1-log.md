@@ -295,3 +295,6 @@ Sat here for an hour trying to figure out how to display the stars for every boo
 
 ### R1D97
 Figured out how to make the amount of stars given for each book to display on the book ... I'm so excited.
+
+### R1D98
+Attended 100Devs class where we learned about Javascript Arrays. Also Redid my Simple Calculator, and changed a few things on my 3rd portfolio.
