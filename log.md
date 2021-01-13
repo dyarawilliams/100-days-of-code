@@ -996,3 +996,12 @@ The RegEx lesson consisted of:
 
 **Link(s) to Work**:
 1. [Bookshelf Project](https://www.khanacademy.org/computer-programming/spin-off-of-project-bookshelf/5062925826342912)
+
+### Day 98: January 12, 2020 Tuesday
+
+**Today's Progress**: Attended 100Devs class where we learned about Javascript Arrays. Also Redid my Simple Calculator, and changed a few things on my 3rd portfolio.
+
+**Thoughts**: Today was hectic but I accomplished something and I didn't just sit there and do nothing. Class was very productive we played around with arrays and got a feel of them. One thing that stood out to me was `forEach` every since I started working with javascript I'd always see this and wonder how it works and tonight I recieved a great explanation. 
+
+**Link(s) to Work**:
+1. [Simple Calculator](https://codepen.io/dyarawilliams/full/BaLVeKJ)
