@@ -1005,3 +1005,12 @@ The RegEx lesson consisted of:
 
 **Link(s) to Work**:
 1. [Simple Calculator](https://codepen.io/dyarawilliams/full/BaLVeKJ)
+
+### Day 99: January 13, 2020 Wednesday
+
+**Today's Progress**: Worked on a few things to finalize my portfolio.
+
+**Thoughts**: Learning how to create a hamburger menu with an animation to the nav. I want a circular nav to the right side of my portfolio. Also I would like to have the icon which opens the nav to transition into a 'X'.
+
+**Link(s) to Work**: 
+1. None working on it I promise when I'm done I will deploy it on github/netlify.
