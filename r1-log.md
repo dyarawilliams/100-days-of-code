@@ -301,3 +301,6 @@ Attended 100Devs class where we learned about Javascript Arrays. Also Redid my S
 
 ### R1D99
 Worked on a few things to finalize my portfolio.
+
+### R1D100
+Finalizing my portfolio.
