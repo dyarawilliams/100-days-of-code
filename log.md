@@ -1022,4 +1022,4 @@ The RegEx lesson consisted of:
 **Thoughts**: This will be my 3rd portfolio. The first one was created when I was working on freeCodeCamp's Responsive Web Design Certification. It was okay but I needed to add more to it because I felt like it was too simple. The second had a right side bar navigation and I wasn't really feeling that because of responsiveness, and this one I'm actually trying new things.
 
 **Link(s) to Work**:
-1. None for now I'll update this link when completed.
+1. [My Personal Portfolio](https://dyarawilliams.github.io)
